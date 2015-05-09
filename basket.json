@@ -1,0 +1,26 @@
+{
+    "timestamp": 1004230459,
+    "items": [
+        {
+            "name": "toothpaste",
+                "gtin": 1001,
+                "price": 120
+        },
+        {
+            "name": "bread",
+                "gtin": 1002,
+                "price": 100
+        },
+            {
+                "name": "bread",
+                    "gtin": 1002,
+                    "price": 100
+            },
+            {
+                "name": "chicken nuggets",
+                    "gtin": 1003,
+                    "price": 450
+            }
+    ]
+}
+

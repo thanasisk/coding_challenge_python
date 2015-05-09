@@ -1,0 +1,9263 @@
+{"promotions": [
+{
+    "discountPercent": 81, 
+    "gtins": [
+        1027, 
+        1010, 
+        1019
+    ], 
+    "name": "Promo 0"
+},
+{
+    "discountPercent": 88, 
+    "gtins": [
+        1042
+    ], 
+    "name": "Promo 1"
+},
+{
+    "discountPercent": 43, 
+    "gtins": [
+        1029, 
+        1047
+    ], 
+    "name": "Promo 2"
+},
+{
+    "discountPercent": 46, 
+    "gtins": [
+        1002, 
+        1019, 
+        1025, 
+        1040, 
+        1015
+    ], 
+    "name": "Promo 3"
+},
+{
+    "discountPercent": 88, 
+    "gtins": [
+        1005, 
+        1030, 
+        1006, 
+        1025
+    ], 
+    "name": "Promo 4"
+},
+{
+    "discountPercent": 12, 
+    "gtins": [
+        1021, 
+        1005, 
+        1038
+    ], 
+    "name": "Promo 5"
+},
+{
+    "discountPercent": 56, 
+    "gtins": [
+        1034, 
+        1032, 
+        1000
+    ], 
+    "name": "Promo 6"
+},
+{
+    "discountPercent": 53, 
+    "gtins": [
+        1009, 
+        1007, 
+        1006
+    ], 
+    "name": "Promo 7"
+},
+{
+    "discountPercent": 17, 
+    "gtins": [
+        1008, 
+        1040, 
+        1001
+    ], 
+    "name": "Promo 8"
+},
+{
+    "discountPercent": 51, 
+    "gtins": [
+        1050, 
+        1017
+    ], 
+    "name": "Promo 9"
+},
+{
+    "discountPercent": 75, 
+    "gtins": [
+        1016, 
+        1030, 
+        1011, 
+        1002, 
+        1020
+    ], 
+    "name": "Promo 10"
+},
+{
+    "discountPercent": 75, 
+    "gtins": [
+        1024
+    ], 
+    "name": "Promo 11"
+},
+{
+    "discountPercent": 77, 
+    "gtins": [
+        1046, 
+        1031
+    ], 
+    "name": "Promo 12"
+},
+{
+    "discountPercent": 18, 
+    "gtins": [
+        1040, 
+        1019, 
+        1050
+    ], 
+    "name": "Promo 13"
+},
+{
+    "discountPercent": 46, 
+    "gtins": [
+        1006
+    ], 
+    "name": "Promo 14"
+},
+{
+    "discountPercent": 58, 
+    "gtins": [
+        1026, 
+        1036, 
+        1021
+    ], 
+    "name": "Promo 15"
+},
+{
+    "discountPercent": 83, 
+    "gtins": [
+        1019
+    ], 
+    "name": "Promo 16"
+},
+{
+    "discountPercent": 46, 
+    "gtins": [
+        1039, 
+        1009, 
+        1019, 
+        1041
+    ], 
+    "name": "Promo 17"
+},
+{
+    "discountPercent": 55, 
+    "gtins": [
+        1048, 
+        1049, 
+        1011, 
+        1033, 
+        1021
+    ], 
+    "name": "Promo 18"
+},
+{
+    "discountPercent": 53, 
+    "gtins": [
+        1016, 
+        1008, 
+        1019, 
+        1011
+    ], 
+    "name": "Promo 19"
+},
+{
+    "discountPercent": 51, 
+    "gtins": [
+        1002
+    ], 
+    "name": "Promo 20"
+},
+{
+    "discountPercent": 42, 
+    "gtins": [
+        1040
+    ], 
+    "name": "Promo 21"
+},
+{
+    "discountPercent": 13, 
+    "gtins": [
+        1035, 
+        1050, 
+        1048, 
+        1019
+    ], 
+    "name": "Promo 22"
+},
+{
+    "discountPercent": 84, 
+    "gtins": [
+        1050
+    ], 
+    "name": "Promo 23"
+},
+{
+    "discountPercent": 5, 
+    "gtins": [
+        1048, 
+        1003, 
+        1022
+    ], 
+    "name": "Promo 24"
+},
+{
+    "discountPercent": 34, 
+    "gtins": [
+        1008, 
+        1010
+    ], 
+    "name": "Promo 25"
+},
+{
+    "discountPercent": 80, 
+    "gtins": [
+        1050, 
+        1032
+    ], 
+    "name": "Promo 26"
+},
+{
+    "discountPercent": 10, 
+    "gtins": [
+        1049, 
+        1001, 
+        1036
+    ], 
+    "name": "Promo 27"
+},
+{
+    "discountPercent": 29, 
+    "gtins": [
+        1024, 
+        1021, 
+        1037, 
+        1013, 
+        1019
+    ], 
+    "name": "Promo 28"
+},
+{
+    "discountPercent": 38, 
+    "gtins": [
+        1033, 
+        1008, 
+        1010
+    ], 
+    "name": "Promo 29"
+},
+{
+    "discountPercent": 19, 
+    "gtins": [
+        1013, 
+        1029, 
+        1040, 
+        1022, 
+        1033
+    ], 
+    "name": "Promo 30"
+},
+{
+    "discountPercent": 63, 
+    "gtins": [
+        1048, 
+        1049, 
+        1013, 
+        1024, 
+        1033
+    ], 
+    "name": "Promo 31"
+},
+{
+    "discountPercent": 97, 
+    "gtins": [
+        1014
+    ], 
+    "name": "Promo 32"
+},
+{
+    "discountPercent": 6, 
+    "gtins": [
+        1008, 
+        1001
+    ], 
+    "name": "Promo 33"
+},
+{
+    "discountPercent": 24, 
+    "gtins": [
+        1015, 
+        1016
+    ], 
+    "name": "Promo 34"
+},
+{
+    "discountPercent": 8, 
+    "gtins": [
+        1006
+    ], 
+    "name": "Promo 35"
+},
+{
+    "discountPercent": 77, 
+    "gtins": [
+        1006, 
+        1015, 
+        1002
+    ], 
+    "name": "Promo 36"
+},
+{
+    "discountPercent": 75, 
+    "gtins": [
+        1006, 
+        1031
+    ], 
+    "name": "Promo 37"
+},
+{
+    "discountPercent": 87, 
+    "gtins": [
+        1014, 
+        1011, 
+        1041, 
+        1032
+    ], 
+    "name": "Promo 38"
+},
+{
+    "discountPercent": 91, 
+    "gtins": [
+        1007
+    ], 
+    "name": "Promo 39"
+},
+{
+    "discountPercent": 9, 
+    "gtins": [
+        1010, 
+        1000, 
+        1003
+    ], 
+    "name": "Promo 40"
+},
+{
+    "discountPercent": 25, 
+    "gtins": [
+        1040, 
+        1001, 
+        1000, 
+        1006
+    ], 
+    "name": "Promo 41"
+},
+{
+    "discountPercent": 39, 
+    "gtins": [
+        1047
+    ], 
+    "name": "Promo 42"
+},
+{
+    "discountPercent": 68, 
+    "gtins": [
+        1049, 
+        1036, 
+        1026, 
+        1010, 
+        1043
+    ], 
+    "name": "Promo 43"
+},
+{
+    "discountPercent": 32, 
+    "gtins": [
+        1026
+    ], 
+    "name": "Promo 44"
+},
+{
+    "discountPercent": 24, 
+    "gtins": [
+        1050, 
+        1042, 
+        1015, 
+        1040
+    ], 
+    "name": "Promo 45"
+},
+{
+    "discountPercent": 97, 
+    "gtins": [
+        1015, 
+        1036, 
+        1036, 
+        1025, 
+        1001
+    ], 
+    "name": "Promo 46"
+},
+{
+    "discountPercent": 37, 
+    "gtins": [
+        1021, 
+        1012, 
+        1043
+    ], 
+    "name": "Promo 47"
+},
+{
+    "discountPercent": 10, 
+    "gtins": [
+        1033, 
+        1000
+    ], 
+    "name": "Promo 48"
+},
+{
+    "discountPercent": 59, 
+    "gtins": [
+        1033, 
+        1015, 
+        1002
+    ], 
+    "name": "Promo 49"
+},
+{
+    "discountPercent": 64, 
+    "gtins": [
+        1044, 
+        1048, 
+        1016, 
+        1007
+    ], 
+    "name": "Promo 50"
+},
+{
+    "discountPercent": 6, 
+    "gtins": [
+        1034, 
+        1012, 
+        1006, 
+        1047, 
+        1048
+    ], 
+    "name": "Promo 51"
+},
+{
+    "discountPercent": 62, 
+    "gtins": [
+        1002, 
+        1038, 
+        1031, 
+        1011
+    ], 
+    "name": "Promo 52"
+},
+{
+    "discountPercent": 86, 
+    "gtins": [
+        1021, 
+        1012, 
+        1039
+    ], 
+    "name": "Promo 53"
+},
+{
+    "discountPercent": 47, 
+    "gtins": [
+        1037, 
+        1040, 
+        1014
+    ], 
+    "name": "Promo 54"
+},
+{
+    "discountPercent": 58, 
+    "gtins": [
+        1015, 
+        1021, 
+        1003, 
+        1049, 
+        1033
+    ], 
+    "name": "Promo 55"
+},
+{
+    "discountPercent": 74, 
+    "gtins": [
+        1044, 
+        1024, 
+        1030
+    ], 
+    "name": "Promo 56"
+},
+{
+    "discountPercent": 24, 
+    "gtins": [
+        1018, 
+        1001, 
+        1049, 
+        1025
+    ], 
+    "name": "Promo 57"
+},
+{
+    "discountPercent": 60, 
+    "gtins": [
+        1007, 
+        1035, 
+        1050, 
+        1049
+    ], 
+    "name": "Promo 58"
+},
+{
+    "discountPercent": 46, 
+    "gtins": [
+        1002, 
+        1031
+    ], 
+    "name": "Promo 59"
+},
+{
+    "discountPercent": 99, 
+    "gtins": [
+        1038, 
+        1018, 
+        1029, 
+        1007, 
+        1013
+    ], 
+    "name": "Promo 60"
+},
+{
+    "discountPercent": 40, 
+    "gtins": [
+        1040, 
+        1002, 
+        1011, 
+        1030
+    ], 
+    "name": "Promo 61"
+},
+{
+    "discountPercent": 62, 
+    "gtins": [
+        1028
+    ], 
+    "name": "Promo 62"
+},
+{
+    "discountPercent": 99, 
+    "gtins": [
+        1049
+    ], 
+    "name": "Promo 63"
+},
+{
+    "discountPercent": 94, 
+    "gtins": [
+        1022
+    ], 
+    "name": "Promo 64"
+},
+{
+    "discountPercent": 51, 
+    "gtins": [
+        1033, 
+        1019
+    ], 
+    "name": "Promo 65"
+},
+{
+    "discountPercent": 6, 
+    "gtins": [
+        1026, 
+        1011, 
+        1039, 
+        1017, 
+        1009
+    ], 
+    "name": "Promo 66"
+},
+{
+    "discountPercent": 19, 
+    "gtins": [
+        1018, 
+        1024, 
+        1002, 
+        1021, 
+        1024
+    ], 
+    "name": "Promo 67"
+},
+{
+    "discountPercent": 1, 
+    "gtins": [
+        1017, 
+        1029, 
+        1033
+    ], 
+    "name": "Promo 68"
+},
+{
+    "discountPercent": 56, 
+    "gtins": [
+        1022, 
+        1001, 
+        1000, 
+        1043
+    ], 
+    "name": "Promo 69"
+},
+{
+    "discountPercent": 11, 
+    "gtins": [
+        1022
+    ], 
+    "name": "Promo 70"
+},
+{
+    "discountPercent": 54, 
+    "gtins": [
+        1020, 
+        1026, 
+        1030, 
+        1032, 
+        1028
+    ], 
+    "name": "Promo 71"
+},
+{
+    "discountPercent": 81, 
+    "gtins": [
+        1022
+    ], 
+    "name": "Promo 72"
+},
+{
+    "discountPercent": 86, 
+    "gtins": [
+        1024, 
+        1041
+    ], 
+    "name": "Promo 73"
+},
+{
+    "discountPercent": 41, 
+    "gtins": [
+        1035
+    ], 
+    "name": "Promo 74"
+},
+{
+    "discountPercent": 1, 
+    "gtins": [
+        1043, 
+        1048, 
+        1023
+    ], 
+    "name": "Promo 75"
+},
+{
+    "discountPercent": 11, 
+    "gtins": [
+        1014, 
+        1029
+    ], 
+    "name": "Promo 76"
+},
+{
+    "discountPercent": 91, 
+    "gtins": [
+        1031
+    ], 
+    "name": "Promo 77"
+},
+{
+    "discountPercent": 75, 
+    "gtins": [
+        1043, 
+        1015, 
+        1012
+    ], 
+    "name": "Promo 78"
+},
+{
+    "discountPercent": 18, 
+    "gtins": [
+        1032, 
+        1034, 
+        1001, 
+        1043
+    ], 
+    "name": "Promo 79"
+},
+{
+    "discountPercent": 98, 
+    "gtins": [
+        1014, 
+        1027, 
+        1013, 
+        1038
+    ], 
+    "name": "Promo 80"
+},
+{
+    "discountPercent": 30, 
+    "gtins": [
+        1038, 
+        1025, 
+        1039, 
+        1014
+    ], 
+    "name": "Promo 81"
+},
+{
+    "discountPercent": 29, 
+    "gtins": [
+        1048, 
+        1029, 
+        1038
+    ], 
+    "name": "Promo 82"
+},
+{
+    "discountPercent": 19, 
+    "gtins": [
+        1040, 
+        1019, 
+        1021
+    ], 
+    "name": "Promo 83"
+},
+{
+    "discountPercent": 49, 
+    "gtins": [
+        1036, 
+        1041, 
+        1047
+    ], 
+    "name": "Promo 84"
+},
+{
+    "discountPercent": 84, 
+    "gtins": [
+        1039, 
+        1023
+    ], 
+    "name": "Promo 85"
+},
+{
+    "discountPercent": 7, 
+    "gtins": [
+        1027, 
+        1021, 
+        1048
+    ], 
+    "name": "Promo 86"
+},
+{
+    "discountPercent": 86, 
+    "gtins": [
+        1002, 
+        1000, 
+        1038, 
+        1038, 
+        1008
+    ], 
+    "name": "Promo 87"
+},
+{
+    "discountPercent": 8, 
+    "gtins": [
+        1048, 
+        1036
+    ], 
+    "name": "Promo 88"
+},
+{
+    "discountPercent": 6, 
+    "gtins": [
+        1013, 
+        1023, 
+        1021, 
+        1037, 
+        1023
+    ], 
+    "name": "Promo 89"
+},
+{
+    "discountPercent": 55, 
+    "gtins": [
+        1043, 
+        1012, 
+        1043
+    ], 
+    "name": "Promo 90"
+},
+{
+    "discountPercent": 4, 
+    "gtins": [
+        1042, 
+        1032, 
+        1034
+    ], 
+    "name": "Promo 91"
+},
+{
+    "discountPercent": 52, 
+    "gtins": [
+        1050, 
+        1042
+    ], 
+    "name": "Promo 92"
+},
+{
+    "discountPercent": 86, 
+    "gtins": [
+        1016, 
+        1005, 
+        1032
+    ], 
+    "name": "Promo 93"
+},
+{
+    "discountPercent": 89, 
+    "gtins": [
+        1022, 
+        1030, 
+        1028, 
+        1045
+    ], 
+    "name": "Promo 94"
+},
+{
+    "discountPercent": 34, 
+    "gtins": [
+        1020, 
+        1016, 
+        1027, 
+        1002, 
+        1010
+    ], 
+    "name": "Promo 95"
+},
+{
+    "discountPercent": 82, 
+    "gtins": [
+        1018, 
+        1007
+    ], 
+    "name": "Promo 96"
+},
+{
+    "discountPercent": 38, 
+    "gtins": [
+        1048, 
+        1030, 
+        1015, 
+        1043, 
+        1019
+    ], 
+    "name": "Promo 97"
+},
+{
+    "discountPercent": 64, 
+    "gtins": [
+        1010
+    ], 
+    "name": "Promo 98"
+},
+{
+    "discountPercent": 62, 
+    "gtins": [
+        1045, 
+        1035, 
+        1006, 
+        1026
+    ], 
+    "name": "Promo 99"
+},
+{
+    "discountPercent": 60, 
+    "gtins": [
+        1030
+    ], 
+    "name": "Promo 100"
+},
+{
+    "discountPercent": 42, 
+    "gtins": [
+        1017, 
+        1021, 
+        1043, 
+        1019, 
+        1002
+    ], 
+    "name": "Promo 101"
+},
+{
+    "discountPercent": 85, 
+    "gtins": [
+        1013, 
+        1047, 
+        1050, 
+        1044
+    ], 
+    "name": "Promo 102"
+},
+{
+    "discountPercent": 4, 
+    "gtins": [
+        1018, 
+        1022, 
+        1003, 
+        1030
+    ], 
+    "name": "Promo 103"
+},
+{
+    "discountPercent": 84, 
+    "gtins": [
+        1010, 
+        1002, 
+        1019, 
+        1017, 
+        1004
+    ], 
+    "name": "Promo 104"
+},
+{
+    "discountPercent": 11, 
+    "gtins": [
+        1023, 
+        1018
+    ], 
+    "name": "Promo 105"
+},
+{
+    "discountPercent": 27, 
+    "gtins": [
+        1023, 
+        1005, 
+        1009
+    ], 
+    "name": "Promo 106"
+},
+{
+    "discountPercent": 11, 
+    "gtins": [
+        1029, 
+        1017, 
+        1019, 
+        1021
+    ], 
+    "name": "Promo 107"
+},
+{
+    "discountPercent": 80, 
+    "gtins": [
+        1032
+    ], 
+    "name": "Promo 108"
+},
+{
+    "discountPercent": 7, 
+    "gtins": [
+        1015, 
+        1040, 
+        1017, 
+        1040
+    ], 
+    "name": "Promo 109"
+},
+{
+    "discountPercent": 39, 
+    "gtins": [
+        1039, 
+        1045, 
+        1047, 
+        1031, 
+        1004
+    ], 
+    "name": "Promo 110"
+},
+{
+    "discountPercent": 26, 
+    "gtins": [
+        1002, 
+        1030, 
+        1038
+    ], 
+    "name": "Promo 111"
+},
+{
+    "discountPercent": 42, 
+    "gtins": [
+        1038, 
+        1049
+    ], 
+    "name": "Promo 112"
+},
+{
+    "discountPercent": 47, 
+    "gtins": [
+        1043, 
+        1040, 
+        1035
+    ], 
+    "name": "Promo 113"
+},
+{
+    "discountPercent": 75, 
+    "gtins": [
+        1035
+    ], 
+    "name": "Promo 114"
+},
+{
+    "discountPercent": 44, 
+    "gtins": [
+        1032, 
+        1010, 
+        1000, 
+        1007, 
+        1036
+    ], 
+    "name": "Promo 115"
+},
+{
+    "discountPercent": 54, 
+    "gtins": [
+        1040, 
+        1000, 
+        1020, 
+        1021
+    ], 
+    "name": "Promo 116"
+},
+{
+    "discountPercent": 97, 
+    "gtins": [
+        1043, 
+        1038, 
+        1046
+    ], 
+    "name": "Promo 117"
+},
+{
+    "discountPercent": 91, 
+    "gtins": [
+        1018, 
+        1016, 
+        1021, 
+        1016
+    ], 
+    "name": "Promo 118"
+},
+{
+    "discountPercent": 80, 
+    "gtins": [
+        1041, 
+        1036, 
+        1018, 
+        1025, 
+        1040
+    ], 
+    "name": "Promo 119"
+},
+{
+    "discountPercent": 19, 
+    "gtins": [
+        1048
+    ], 
+    "name": "Promo 120"
+},
+{
+    "discountPercent": 65, 
+    "gtins": [
+        1005, 
+        1033, 
+        1040, 
+        1008, 
+        1034
+    ], 
+    "name": "Promo 121"
+},
+{
+    "discountPercent": 46, 
+    "gtins": [
+        1042, 
+        1032, 
+        1015
+    ], 
+    "name": "Promo 122"
+},
+{
+    "discountPercent": 53, 
+    "gtins": [
+        1049, 
+        1021, 
+        1010
+    ], 
+    "name": "Promo 123"
+},
+{
+    "discountPercent": 41, 
+    "gtins": [
+        1010
+    ], 
+    "name": "Promo 124"
+},
+{
+    "discountPercent": 1, 
+    "gtins": [
+        1034, 
+        1042, 
+        1049, 
+        1039, 
+        1040
+    ], 
+    "name": "Promo 125"
+},
+{
+    "discountPercent": 13, 
+    "gtins": [
+        1022, 
+        1029, 
+        1011, 
+        1049, 
+        1044
+    ], 
+    "name": "Promo 126"
+},
+{
+    "discountPercent": 57, 
+    "gtins": [
+        1030, 
+        1032, 
+        1020, 
+        1029
+    ], 
+    "name": "Promo 127"
+},
+{
+    "discountPercent": 46, 
+    "gtins": [
+        1032, 
+        1025, 
+        1029, 
+        1036, 
+        1044
+    ], 
+    "name": "Promo 128"
+},
+{
+    "discountPercent": 25, 
+    "gtins": [
+        1022, 
+        1000, 
+        1038, 
+        1044, 
+        1043
+    ], 
+    "name": "Promo 129"
+},
+{
+    "discountPercent": 44, 
+    "gtins": [
+        1008, 
+        1004, 
+        1012
+    ], 
+    "name": "Promo 130"
+},
+{
+    "discountPercent": 56, 
+    "gtins": [
+        1006, 
+        1021, 
+        1022
+    ], 
+    "name": "Promo 131"
+},
+{
+    "discountPercent": 31, 
+    "gtins": [
+        1025, 
+        1015
+    ], 
+    "name": "Promo 132"
+},
+{
+    "discountPercent": 82, 
+    "gtins": [
+        1040, 
+        1045
+    ], 
+    "name": "Promo 133"
+},
+{
+    "discountPercent": 26, 
+    "gtins": [
+        1023, 
+        1017, 
+        1002, 
+        1029, 
+        1034
+    ], 
+    "name": "Promo 134"
+},
+{
+    "discountPercent": 55, 
+    "gtins": [
+        1015, 
+        1002
+    ], 
+    "name": "Promo 135"
+},
+{
+    "discountPercent": 70, 
+    "gtins": [
+        1034
+    ], 
+    "name": "Promo 136"
+},
+{
+    "discountPercent": 28, 
+    "gtins": [
+        1047, 
+        1042, 
+        1039, 
+        1001
+    ], 
+    "name": "Promo 137"
+},
+{
+    "discountPercent": 29, 
+    "gtins": [
+        1032, 
+        1003, 
+        1010, 
+        1039, 
+        1011
+    ], 
+    "name": "Promo 138"
+},
+{
+    "discountPercent": 68, 
+    "gtins": [
+        1038, 
+        1005, 
+        1021
+    ], 
+    "name": "Promo 139"
+},
+{
+    "discountPercent": 48, 
+    "gtins": [
+        1043, 
+        1048, 
+        1000, 
+        1022
+    ], 
+    "name": "Promo 140"
+},
+{
+    "discountPercent": 69, 
+    "gtins": [
+        1016, 
+        1021
+    ], 
+    "name": "Promo 141"
+},
+{
+    "discountPercent": 38, 
+    "gtins": [
+        1042, 
+        1032
+    ], 
+    "name": "Promo 142"
+},
+{
+    "discountPercent": 87, 
+    "gtins": [
+        1045, 
+        1030, 
+        1029, 
+        1007, 
+        1038
+    ], 
+    "name": "Promo 143"
+},
+{
+    "discountPercent": 36, 
+    "gtins": [
+        1014, 
+        1033, 
+        1030
+    ], 
+    "name": "Promo 144"
+},
+{
+    "discountPercent": 57, 
+    "gtins": [
+        1027, 
+        1025, 
+        1026, 
+        1031
+    ], 
+    "name": "Promo 145"
+},
+{
+    "discountPercent": 45, 
+    "gtins": [
+        1019, 
+        1035, 
+        1038
+    ], 
+    "name": "Promo 146"
+},
+{
+    "discountPercent": 77, 
+    "gtins": [
+        1034, 
+        1005, 
+        1010, 
+        1045, 
+        1021
+    ], 
+    "name": "Promo 147"
+},
+{
+    "discountPercent": 91, 
+    "gtins": [
+        1008, 
+        1035
+    ], 
+    "name": "Promo 148"
+},
+{
+    "discountPercent": 42, 
+    "gtins": [
+        1038, 
+        1001, 
+        1032, 
+        1019, 
+        1006
+    ], 
+    "name": "Promo 149"
+},
+{
+    "discountPercent": 13, 
+    "gtins": [
+        1018, 
+        1021, 
+        1003, 
+        1022, 
+        1012
+    ], 
+    "name": "Promo 150"
+},
+{
+    "discountPercent": 2, 
+    "gtins": [
+        1008, 
+        1001, 
+        1043, 
+        1041
+    ], 
+    "name": "Promo 151"
+},
+{
+    "discountPercent": 72, 
+    "gtins": [
+        1004, 
+        1035
+    ], 
+    "name": "Promo 152"
+},
+{
+    "discountPercent": 62, 
+    "gtins": [
+        1043, 
+        1006
+    ], 
+    "name": "Promo 153"
+},
+{
+    "discountPercent": 49, 
+    "gtins": [
+        1036, 
+        1034
+    ], 
+    "name": "Promo 154"
+},
+{
+    "discountPercent": 92, 
+    "gtins": [
+        1020, 
+        1037, 
+        1045, 
+        1019
+    ], 
+    "name": "Promo 155"
+},
+{
+    "discountPercent": 43, 
+    "gtins": [
+        1008, 
+        1019, 
+        1019
+    ], 
+    "name": "Promo 156"
+},
+{
+    "discountPercent": 82, 
+    "gtins": [
+        1002
+    ], 
+    "name": "Promo 157"
+},
+{
+    "discountPercent": 77, 
+    "gtins": [
+        1017, 
+        1027, 
+        1035
+    ], 
+    "name": "Promo 158"
+},
+{
+    "discountPercent": 47, 
+    "gtins": [
+        1042, 
+        1022
+    ], 
+    "name": "Promo 159"
+},
+{
+    "discountPercent": 38, 
+    "gtins": [
+        1000
+    ], 
+    "name": "Promo 160"
+},
+{
+    "discountPercent": 7, 
+    "gtins": [
+        1043, 
+        1002, 
+        1041, 
+        1027
+    ], 
+    "name": "Promo 161"
+},
+{
+    "discountPercent": 58, 
+    "gtins": [
+        1033, 
+        1033, 
+        1027
+    ], 
+    "name": "Promo 162"
+},
+{
+    "discountPercent": 91, 
+    "gtins": [
+        1040, 
+        1009, 
+        1021
+    ], 
+    "name": "Promo 163"
+},
+{
+    "discountPercent": 79, 
+    "gtins": [
+        1004, 
+        1013, 
+        1002, 
+        1050
+    ], 
+    "name": "Promo 164"
+},
+{
+    "discountPercent": 33, 
+    "gtins": [
+        1028
+    ], 
+    "name": "Promo 165"
+},
+{
+    "discountPercent": 5, 
+    "gtins": [
+        1037, 
+        1014, 
+        1012
+    ], 
+    "name": "Promo 166"
+},
+{
+    "discountPercent": 47, 
+    "gtins": [
+        1029, 
+        1027, 
+        1026, 
+        1030
+    ], 
+    "name": "Promo 167"
+},
+{
+    "discountPercent": 76, 
+    "gtins": [
+        1033, 
+        1007, 
+        1026, 
+        1044
+    ], 
+    "name": "Promo 168"
+},
+{
+    "discountPercent": 7, 
+    "gtins": [
+        1007, 
+        1038, 
+        1024
+    ], 
+    "name": "Promo 169"
+},
+{
+    "discountPercent": 4, 
+    "gtins": [
+        1017, 
+        1002, 
+        1047, 
+        1040
+    ], 
+    "name": "Promo 170"
+},
+{
+    "discountPercent": 80, 
+    "gtins": [
+        1041, 
+        1000
+    ], 
+    "name": "Promo 171"
+},
+{
+    "discountPercent": 98, 
+    "gtins": [
+        1047, 
+        1047, 
+        1011, 
+        1043, 
+        1020
+    ], 
+    "name": "Promo 172"
+},
+{
+    "discountPercent": 73, 
+    "gtins": [
+        1004, 
+        1038, 
+        1044, 
+        1020
+    ], 
+    "name": "Promo 173"
+},
+{
+    "discountPercent": 71, 
+    "gtins": [
+        1012, 
+        1001, 
+        1032
+    ], 
+    "name": "Promo 174"
+},
+{
+    "discountPercent": 36, 
+    "gtins": [
+        1013
+    ], 
+    "name": "Promo 175"
+},
+{
+    "discountPercent": 62, 
+    "gtins": [
+        1041
+    ], 
+    "name": "Promo 176"
+},
+{
+    "discountPercent": 63, 
+    "gtins": [
+        1025
+    ], 
+    "name": "Promo 177"
+},
+{
+    "discountPercent": 15, 
+    "gtins": [
+        1029, 
+        1027, 
+        1023, 
+        1024, 
+        1014
+    ], 
+    "name": "Promo 178"
+},
+{
+    "discountPercent": 48, 
+    "gtins": [
+        1009, 
+        1024, 
+        1003, 
+        1048
+    ], 
+    "name": "Promo 179"
+},
+{
+    "discountPercent": 84, 
+    "gtins": [
+        1030, 
+        1027, 
+        1031
+    ], 
+    "name": "Promo 180"
+},
+{
+    "discountPercent": 75, 
+    "gtins": [
+        1042, 
+        1027, 
+        1043, 
+        1010, 
+        1021
+    ], 
+    "name": "Promo 181"
+},
+{
+    "discountPercent": 8, 
+    "gtins": [
+        1030, 
+        1003, 
+        1012, 
+        1008
+    ], 
+    "name": "Promo 182"
+},
+{
+    "discountPercent": 77, 
+    "gtins": [
+        1048, 
+        1000, 
+        1032, 
+        1008, 
+        1019
+    ], 
+    "name": "Promo 183"
+},
+{
+    "discountPercent": 53, 
+    "gtins": [
+        1046, 
+        1019
+    ], 
+    "name": "Promo 184"
+},
+{
+    "discountPercent": 23, 
+    "gtins": [
+        1004, 
+        1048
+    ], 
+    "name": "Promo 185"
+},
+{
+    "discountPercent": 16, 
+    "gtins": [
+        1012, 
+        1041, 
+        1013, 
+        1033
+    ], 
+    "name": "Promo 186"
+},
+{
+    "discountPercent": 20, 
+    "gtins": [
+        1000
+    ], 
+    "name": "Promo 187"
+},
+{
+    "discountPercent": 52, 
+    "gtins": [
+        1040
+    ], 
+    "name": "Promo 188"
+},
+{
+    "discountPercent": 45, 
+    "gtins": [
+        1019, 
+        1023, 
+        1039, 
+        1017, 
+        1046
+    ], 
+    "name": "Promo 189"
+},
+{
+    "discountPercent": 83, 
+    "gtins": [
+        1004, 
+        1018, 
+        1019, 
+        1001
+    ], 
+    "name": "Promo 190"
+},
+{
+    "discountPercent": 68, 
+    "gtins": [
+        1025, 
+        1008, 
+        1050, 
+        1034, 
+        1034
+    ], 
+    "name": "Promo 191"
+},
+{
+    "discountPercent": 7, 
+    "gtins": [
+        1017, 
+        1030
+    ], 
+    "name": "Promo 192"
+},
+{
+    "discountPercent": 10, 
+    "gtins": [
+        1015
+    ], 
+    "name": "Promo 193"
+},
+{
+    "discountPercent": 48, 
+    "gtins": [
+        1050, 
+        1003
+    ], 
+    "name": "Promo 194"
+},
+{
+    "discountPercent": 57, 
+    "gtins": [
+        1030, 
+        1047, 
+        1033, 
+        1014, 
+        1037
+    ], 
+    "name": "Promo 195"
+},
+{
+    "discountPercent": 91, 
+    "gtins": [
+        1030, 
+        1025
+    ], 
+    "name": "Promo 196"
+},
+{
+    "discountPercent": 78, 
+    "gtins": [
+        1023, 
+        1033, 
+        1047
+    ], 
+    "name": "Promo 197"
+},
+{
+    "discountPercent": 21, 
+    "gtins": [
+        1030, 
+        1049, 
+        1000
+    ], 
+    "name": "Promo 198"
+},
+{
+    "discountPercent": 1, 
+    "gtins": [
+        1001, 
+        1012, 
+        1016, 
+        1038, 
+        1020
+    ], 
+    "name": "Promo 199"
+},
+{
+    "discountPercent": 97, 
+    "gtins": [
+        1010, 
+        1015
+    ], 
+    "name": "Promo 200"
+},
+{
+    "discountPercent": 92, 
+    "gtins": [
+        1007
+    ], 
+    "name": "Promo 201"
+},
+{
+    "discountPercent": 58, 
+    "gtins": [
+        1028, 
+        1036
+    ], 
+    "name": "Promo 202"
+},
+{
+    "discountPercent": 63, 
+    "gtins": [
+        1010, 
+        1013, 
+        1015
+    ], 
+    "name": "Promo 203"
+},
+{
+    "discountPercent": 43, 
+    "gtins": [
+        1040, 
+        1014
+    ], 
+    "name": "Promo 204"
+},
+{
+    "discountPercent": 38, 
+    "gtins": [
+        1015, 
+        1042, 
+        1022
+    ], 
+    "name": "Promo 205"
+},
+{
+    "discountPercent": 10, 
+    "gtins": [
+        1033, 
+        1000
+    ], 
+    "name": "Promo 206"
+},
+{
+    "discountPercent": 45, 
+    "gtins": [
+        1013, 
+        1030, 
+        1039, 
+        1037, 
+        1000
+    ], 
+    "name": "Promo 207"
+},
+{
+    "discountPercent": 69, 
+    "gtins": [
+        1049, 
+        1005, 
+        1008
+    ], 
+    "name": "Promo 208"
+},
+{
+    "discountPercent": 72, 
+    "gtins": [
+        1014, 
+        1035
+    ], 
+    "name": "Promo 209"
+},
+{
+    "discountPercent": 91, 
+    "gtins": [
+        1046
+    ], 
+    "name": "Promo 210"
+},
+{
+    "discountPercent": 54, 
+    "gtins": [
+        1028
+    ], 
+    "name": "Promo 211"
+},
+{
+    "discountPercent": 76, 
+    "gtins": [
+        1039, 
+        1007
+    ], 
+    "name": "Promo 212"
+},
+{
+    "discountPercent": 59, 
+    "gtins": [
+        1034
+    ], 
+    "name": "Promo 213"
+},
+{
+    "discountPercent": 39, 
+    "gtins": [
+        1008, 
+        1043, 
+        1025, 
+        1027, 
+        1049
+    ], 
+    "name": "Promo 214"
+},
+{
+    "discountPercent": 80, 
+    "gtins": [
+        1015
+    ], 
+    "name": "Promo 215"
+},
+{
+    "discountPercent": 93, 
+    "gtins": [
+        1001, 
+        1010, 
+        1004, 
+        1029, 
+        1047
+    ], 
+    "name": "Promo 216"
+},
+{
+    "discountPercent": 14, 
+    "gtins": [
+        1037
+    ], 
+    "name": "Promo 217"
+},
+{
+    "discountPercent": 75, 
+    "gtins": [
+        1003
+    ], 
+    "name": "Promo 218"
+},
+{
+    "discountPercent": 43, 
+    "gtins": [
+        1029, 
+        1001, 
+        1020, 
+        1015, 
+        1043
+    ], 
+    "name": "Promo 219"
+},
+{
+    "discountPercent": 25, 
+    "gtins": [
+        1041, 
+        1022, 
+        1035
+    ], 
+    "name": "Promo 220"
+},
+{
+    "discountPercent": 48, 
+    "gtins": [
+        1001, 
+        1042, 
+        1032, 
+        1027, 
+        1017
+    ], 
+    "name": "Promo 221"
+},
+{
+    "discountPercent": 8, 
+    "gtins": [
+        1013
+    ], 
+    "name": "Promo 222"
+},
+{
+    "discountPercent": 88, 
+    "gtins": [
+        1040, 
+        1029, 
+        1000, 
+        1014, 
+        1014
+    ], 
+    "name": "Promo 223"
+},
+{
+    "discountPercent": 96, 
+    "gtins": [
+        1037, 
+        1023, 
+        1006, 
+        1015, 
+        1022
+    ], 
+    "name": "Promo 224"
+},
+{
+    "discountPercent": 56, 
+    "gtins": [
+        1006, 
+        1002, 
+        1045
+    ], 
+    "name": "Promo 225"
+},
+{
+    "discountPercent": 65, 
+    "gtins": [
+        1008, 
+        1001, 
+        1047, 
+        1007
+    ], 
+    "name": "Promo 226"
+},
+{
+    "discountPercent": 31, 
+    "gtins": [
+        1017, 
+        1046, 
+        1013, 
+        1037
+    ], 
+    "name": "Promo 227"
+},
+{
+    "discountPercent": 24, 
+    "gtins": [
+        1006, 
+        1009
+    ], 
+    "name": "Promo 228"
+},
+{
+    "discountPercent": 36, 
+    "gtins": [
+        1041, 
+        1003, 
+        1023, 
+        1033, 
+        1025
+    ], 
+    "name": "Promo 229"
+},
+{
+    "discountPercent": 77, 
+    "gtins": [
+        1050, 
+        1014, 
+        1016, 
+        1026, 
+        1020
+    ], 
+    "name": "Promo 230"
+},
+{
+    "discountPercent": 3, 
+    "gtins": [
+        1022, 
+        1017, 
+        1008, 
+        1008
+    ], 
+    "name": "Promo 231"
+},
+{
+    "discountPercent": 67, 
+    "gtins": [
+        1028, 
+        1010, 
+        1005
+    ], 
+    "name": "Promo 232"
+},
+{
+    "discountPercent": 22, 
+    "gtins": [
+        1038
+    ], 
+    "name": "Promo 233"
+},
+{
+    "discountPercent": 56, 
+    "gtins": [
+        1018, 
+        1008
+    ], 
+    "name": "Promo 234"
+},
+{
+    "discountPercent": 10, 
+    "gtins": [
+        1028, 
+        1045, 
+        1012, 
+        1043, 
+        1024
+    ], 
+    "name": "Promo 235"
+},
+{
+    "discountPercent": 56, 
+    "gtins": [
+        1026, 
+        1027, 
+        1050, 
+        1002, 
+        1022
+    ], 
+    "name": "Promo 236"
+},
+{
+    "discountPercent": 9, 
+    "gtins": [
+        1015, 
+        1042, 
+        1020, 
+        1006
+    ], 
+    "name": "Promo 237"
+},
+{
+    "discountPercent": 5, 
+    "gtins": [
+        1008, 
+        1032, 
+        1029
+    ], 
+    "name": "Promo 238"
+},
+{
+    "discountPercent": 89, 
+    "gtins": [
+        1020
+    ], 
+    "name": "Promo 239"
+},
+{
+    "discountPercent": 52, 
+    "gtins": [
+        1005, 
+        1031
+    ], 
+    "name": "Promo 240"
+},
+{
+    "discountPercent": 74, 
+    "gtins": [
+        1050, 
+        1020, 
+        1006
+    ], 
+    "name": "Promo 241"
+},
+{
+    "discountPercent": 69, 
+    "gtins": [
+        1037, 
+        1041, 
+        1020
+    ], 
+    "name": "Promo 242"
+},
+{
+    "discountPercent": 21, 
+    "gtins": [
+        1029, 
+        1022, 
+        1027
+    ], 
+    "name": "Promo 243"
+},
+{
+    "discountPercent": 33, 
+    "gtins": [
+        1011
+    ], 
+    "name": "Promo 244"
+},
+{
+    "discountPercent": 78, 
+    "gtins": [
+        1044, 
+        1004, 
+        1008
+    ], 
+    "name": "Promo 245"
+},
+{
+    "discountPercent": 92, 
+    "gtins": [
+        1042, 
+        1009, 
+        1030, 
+        1043
+    ], 
+    "name": "Promo 246"
+},
+{
+    "discountPercent": 69, 
+    "gtins": [
+        1004, 
+        1028, 
+        1027, 
+        1006, 
+        1018
+    ], 
+    "name": "Promo 247"
+},
+{
+    "discountPercent": 39, 
+    "gtins": [
+        1050, 
+        1007, 
+        1019, 
+        1050
+    ], 
+    "name": "Promo 248"
+},
+{
+    "discountPercent": 46, 
+    "gtins": [
+        1028, 
+        1048, 
+        1040, 
+        1018, 
+        1010
+    ], 
+    "name": "Promo 249"
+},
+{
+    "discountPercent": 21, 
+    "gtins": [
+        1016
+    ], 
+    "name": "Promo 250"
+},
+{
+    "discountPercent": 22, 
+    "gtins": [
+        1009, 
+        1004, 
+        1040, 
+        1034
+    ], 
+    "name": "Promo 251"
+},
+{
+    "discountPercent": 23, 
+    "gtins": [
+        1004, 
+        1000, 
+        1010, 
+        1000
+    ], 
+    "name": "Promo 252"
+},
+{
+    "discountPercent": 77, 
+    "gtins": [
+        1020, 
+        1009
+    ], 
+    "name": "Promo 253"
+},
+{
+    "discountPercent": 81, 
+    "gtins": [
+        1045, 
+        1014
+    ], 
+    "name": "Promo 254"
+},
+{
+    "discountPercent": 1, 
+    "gtins": [
+        1037, 
+        1025, 
+        1031, 
+        1025, 
+        1023
+    ], 
+    "name": "Promo 255"
+},
+{
+    "discountPercent": 1, 
+    "gtins": [
+        1044, 
+        1039
+    ], 
+    "name": "Promo 256"
+},
+{
+    "discountPercent": 78, 
+    "gtins": [
+        1044, 
+        1025, 
+        1014, 
+        1037, 
+        1012
+    ], 
+    "name": "Promo 257"
+},
+{
+    "discountPercent": 41, 
+    "gtins": [
+        1016, 
+        1009
+    ], 
+    "name": "Promo 258"
+},
+{
+    "discountPercent": 53, 
+    "gtins": [
+        1020, 
+        1014, 
+        1020, 
+        1048
+    ], 
+    "name": "Promo 259"
+},
+{
+    "discountPercent": 75, 
+    "gtins": [
+        1048, 
+        1013, 
+        1012, 
+        1040
+    ], 
+    "name": "Promo 260"
+},
+{
+    "discountPercent": 89, 
+    "gtins": [
+        1005
+    ], 
+    "name": "Promo 261"
+},
+{
+    "discountPercent": 48, 
+    "gtins": [
+        1011
+    ], 
+    "name": "Promo 262"
+},
+{
+    "discountPercent": 90, 
+    "gtins": [
+        1015, 
+        1017
+    ], 
+    "name": "Promo 263"
+},
+{
+    "discountPercent": 8, 
+    "gtins": [
+        1012
+    ], 
+    "name": "Promo 264"
+},
+{
+    "discountPercent": 4, 
+    "gtins": [
+        1031, 
+        1025, 
+        1004, 
+        1031
+    ], 
+    "name": "Promo 265"
+},
+{
+    "discountPercent": 56, 
+    "gtins": [
+        1030, 
+        1029, 
+        1024
+    ], 
+    "name": "Promo 266"
+},
+{
+    "discountPercent": 49, 
+    "gtins": [
+        1024
+    ], 
+    "name": "Promo 267"
+},
+{
+    "discountPercent": 16, 
+    "gtins": [
+        1022, 
+        1035, 
+        1043
+    ], 
+    "name": "Promo 268"
+},
+{
+    "discountPercent": 8, 
+    "gtins": [
+        1001
+    ], 
+    "name": "Promo 269"
+},
+{
+    "discountPercent": 96, 
+    "gtins": [
+        1027, 
+        1033, 
+        1005, 
+        1025
+    ], 
+    "name": "Promo 270"
+},
+{
+    "discountPercent": 37, 
+    "gtins": [
+        1036, 
+        1025, 
+        1023, 
+        1012, 
+        1019
+    ], 
+    "name": "Promo 271"
+},
+{
+    "discountPercent": 13, 
+    "gtins": [
+        1035, 
+        1047, 
+        1021, 
+        1045
+    ], 
+    "name": "Promo 272"
+},
+{
+    "discountPercent": 77, 
+    "gtins": [
+        1043, 
+        1031, 
+        1015, 
+        1017, 
+        1033
+    ], 
+    "name": "Promo 273"
+},
+{
+    "discountPercent": 85, 
+    "gtins": [
+        1048, 
+        1006, 
+        1023, 
+        1029
+    ], 
+    "name": "Promo 274"
+},
+{
+    "discountPercent": 89, 
+    "gtins": [
+        1020, 
+        1026, 
+        1042
+    ], 
+    "name": "Promo 275"
+},
+{
+    "discountPercent": 6, 
+    "gtins": [
+        1007
+    ], 
+    "name": "Promo 276"
+},
+{
+    "discountPercent": 73, 
+    "gtins": [
+        1010, 
+        1045
+    ], 
+    "name": "Promo 277"
+},
+{
+    "discountPercent": 52, 
+    "gtins": [
+        1048, 
+        1029, 
+        1048
+    ], 
+    "name": "Promo 278"
+},
+{
+    "discountPercent": 9, 
+    "gtins": [
+        1045
+    ], 
+    "name": "Promo 279"
+},
+{
+    "discountPercent": 29, 
+    "gtins": [
+        1019, 
+        1040, 
+        1030, 
+        1000, 
+        1037
+    ], 
+    "name": "Promo 280"
+},
+{
+    "discountPercent": 2, 
+    "gtins": [
+        1020, 
+        1010, 
+        1039, 
+        1020
+    ], 
+    "name": "Promo 281"
+},
+{
+    "discountPercent": 70, 
+    "gtins": [
+        1003, 
+        1001, 
+        1030
+    ], 
+    "name": "Promo 282"
+},
+{
+    "discountPercent": 70, 
+    "gtins": [
+        1025, 
+        1040, 
+        1022
+    ], 
+    "name": "Promo 283"
+},
+{
+    "discountPercent": 81, 
+    "gtins": [
+        1028
+    ], 
+    "name": "Promo 284"
+},
+{
+    "discountPercent": 21, 
+    "gtins": [
+        1033
+    ], 
+    "name": "Promo 285"
+},
+{
+    "discountPercent": 19, 
+    "gtins": [
+        1006, 
+        1016, 
+        1049
+    ], 
+    "name": "Promo 286"
+},
+{
+    "discountPercent": 57, 
+    "gtins": [
+        1016, 
+        1007
+    ], 
+    "name": "Promo 287"
+},
+{
+    "discountPercent": 62, 
+    "gtins": [
+        1046, 
+        1000, 
+        1048
+    ], 
+    "name": "Promo 288"
+},
+{
+    "discountPercent": 92, 
+    "gtins": [
+        1036, 
+        1024, 
+        1024, 
+        1027
+    ], 
+    "name": "Promo 289"
+},
+{
+    "discountPercent": 37, 
+    "gtins": [
+        1016, 
+        1024, 
+        1020, 
+        1026
+    ], 
+    "name": "Promo 290"
+},
+{
+    "discountPercent": 96, 
+    "gtins": [
+        1014
+    ], 
+    "name": "Promo 291"
+},
+{
+    "discountPercent": 62, 
+    "gtins": [
+        1008, 
+        1040, 
+        1003, 
+        1000
+    ], 
+    "name": "Promo 292"
+},
+{
+    "discountPercent": 68, 
+    "gtins": [
+        1031, 
+        1050, 
+        1025, 
+        1005
+    ], 
+    "name": "Promo 293"
+},
+{
+    "discountPercent": 99, 
+    "gtins": [
+        1026, 
+        1028
+    ], 
+    "name": "Promo 294"
+},
+{
+    "discountPercent": 91, 
+    "gtins": [
+        1011, 
+        1035, 
+        1007, 
+        1042
+    ], 
+    "name": "Promo 295"
+},
+{
+    "discountPercent": 63, 
+    "gtins": [
+        1012, 
+        1035, 
+        1039, 
+        1001
+    ], 
+    "name": "Promo 296"
+},
+{
+    "discountPercent": 48, 
+    "gtins": [
+        1035, 
+        1028, 
+        1043
+    ], 
+    "name": "Promo 297"
+},
+{
+    "discountPercent": 94, 
+    "gtins": [
+        1023, 
+        1040, 
+        1050, 
+        1015, 
+        1024
+    ], 
+    "name": "Promo 298"
+},
+{
+    "discountPercent": 64, 
+    "gtins": [
+        1023, 
+        1010, 
+        1050, 
+        1033
+    ], 
+    "name": "Promo 299"
+},
+{
+    "discountPercent": 67, 
+    "gtins": [
+        1046
+    ], 
+    "name": "Promo 300"
+},
+{
+    "discountPercent": 55, 
+    "gtins": [
+        1050, 
+        1040, 
+        1049, 
+        1024, 
+        1031
+    ], 
+    "name": "Promo 301"
+},
+{
+    "discountPercent": 72, 
+    "gtins": [
+        1029, 
+        1022
+    ], 
+    "name": "Promo 302"
+},
+{
+    "discountPercent": 67, 
+    "gtins": [
+        1026
+    ], 
+    "name": "Promo 303"
+},
+{
+    "discountPercent": 5, 
+    "gtins": [
+        1049, 
+        1045, 
+        1004, 
+        1029
+    ], 
+    "name": "Promo 304"
+},
+{
+    "discountPercent": 56, 
+    "gtins": [
+        1049, 
+        1020
+    ], 
+    "name": "Promo 305"
+},
+{
+    "discountPercent": 52, 
+    "gtins": [
+        1048, 
+        1044, 
+        1026, 
+        1006, 
+        1017
+    ], 
+    "name": "Promo 306"
+},
+{
+    "discountPercent": 50, 
+    "gtins": [
+        1005, 
+        1008
+    ], 
+    "name": "Promo 307"
+},
+{
+    "discountPercent": 51, 
+    "gtins": [
+        1048, 
+        1041, 
+        1048, 
+        1024, 
+        1029
+    ], 
+    "name": "Promo 308"
+},
+{
+    "discountPercent": 88, 
+    "gtins": [
+        1048
+    ], 
+    "name": "Promo 309"
+},
+{
+    "discountPercent": 60, 
+    "gtins": [
+        1034, 
+        1043, 
+        1031
+    ], 
+    "name": "Promo 310"
+},
+{
+    "discountPercent": 30, 
+    "gtins": [
+        1014, 
+        1049, 
+        1027, 
+        1026, 
+        1016
+    ], 
+    "name": "Promo 311"
+},
+{
+    "discountPercent": 22, 
+    "gtins": [
+        1001
+    ], 
+    "name": "Promo 312"
+},
+{
+    "discountPercent": 46, 
+    "gtins": [
+        1035
+    ], 
+    "name": "Promo 313"
+},
+{
+    "discountPercent": 54, 
+    "gtins": [
+        1021, 
+        1044
+    ], 
+    "name": "Promo 314"
+},
+{
+    "discountPercent": 39, 
+    "gtins": [
+        1030, 
+        1038, 
+        1016, 
+        1002, 
+        1002
+    ], 
+    "name": "Promo 315"
+},
+{
+    "discountPercent": 87, 
+    "gtins": [
+        1045, 
+        1011
+    ], 
+    "name": "Promo 316"
+},
+{
+    "discountPercent": 29, 
+    "gtins": [
+        1015
+    ], 
+    "name": "Promo 317"
+},
+{
+    "discountPercent": 2, 
+    "gtins": [
+        1014, 
+        1046, 
+        1016
+    ], 
+    "name": "Promo 318"
+},
+{
+    "discountPercent": 40, 
+    "gtins": [
+        1033, 
+        1028, 
+        1025
+    ], 
+    "name": "Promo 319"
+},
+{
+    "discountPercent": 51, 
+    "gtins": [
+        1042, 
+        1024, 
+        1011
+    ], 
+    "name": "Promo 320"
+},
+{
+    "discountPercent": 93, 
+    "gtins": [
+        1001, 
+        1009, 
+        1049
+    ], 
+    "name": "Promo 321"
+},
+{
+    "discountPercent": 25, 
+    "gtins": [
+        1000
+    ], 
+    "name": "Promo 322"
+},
+{
+    "discountPercent": 64, 
+    "gtins": [
+        1026, 
+        1019
+    ], 
+    "name": "Promo 323"
+},
+{
+    "discountPercent": 51, 
+    "gtins": [
+        1036
+    ], 
+    "name": "Promo 324"
+},
+{
+    "discountPercent": 34, 
+    "gtins": [
+        1018
+    ], 
+    "name": "Promo 325"
+},
+{
+    "discountPercent": 37, 
+    "gtins": [
+        1046, 
+        1046
+    ], 
+    "name": "Promo 326"
+},
+{
+    "discountPercent": 5, 
+    "gtins": [
+        1003, 
+        1046
+    ], 
+    "name": "Promo 327"
+},
+{
+    "discountPercent": 46, 
+    "gtins": [
+        1042, 
+        1050, 
+        1029, 
+        1039
+    ], 
+    "name": "Promo 328"
+},
+{
+    "discountPercent": 36, 
+    "gtins": [
+        1032, 
+        1004, 
+        1017, 
+        1014, 
+        1027
+    ], 
+    "name": "Promo 329"
+},
+{
+    "discountPercent": 88, 
+    "gtins": [
+        1023, 
+        1023, 
+        1031, 
+        1034
+    ], 
+    "name": "Promo 330"
+},
+{
+    "discountPercent": 65, 
+    "gtins": [
+        1043, 
+        1013
+    ], 
+    "name": "Promo 331"
+},
+{
+    "discountPercent": 55, 
+    "gtins": [
+        1023, 
+        1034
+    ], 
+    "name": "Promo 332"
+},
+{
+    "discountPercent": 31, 
+    "gtins": [
+        1042, 
+        1022
+    ], 
+    "name": "Promo 333"
+},
+{
+    "discountPercent": 99, 
+    "gtins": [
+        1003, 
+        1016, 
+        1043
+    ], 
+    "name": "Promo 334"
+},
+{
+    "discountPercent": 22, 
+    "gtins": [
+        1001, 
+        1042
+    ], 
+    "name": "Promo 335"
+},
+{
+    "discountPercent": 89, 
+    "gtins": [
+        1016
+    ], 
+    "name": "Promo 336"
+},
+{
+    "discountPercent": 31, 
+    "gtins": [
+        1025
+    ], 
+    "name": "Promo 337"
+},
+{
+    "discountPercent": 82, 
+    "gtins": [
+        1035, 
+        1016, 
+        1003
+    ], 
+    "name": "Promo 338"
+},
+{
+    "discountPercent": 44, 
+    "gtins": [
+        1021, 
+        1045
+    ], 
+    "name": "Promo 339"
+},
+{
+    "discountPercent": 64, 
+    "gtins": [
+        1024, 
+        1050
+    ], 
+    "name": "Promo 340"
+},
+{
+    "discountPercent": 29, 
+    "gtins": [
+        1029, 
+        1039, 
+        1002, 
+        1001, 
+        1005
+    ], 
+    "name": "Promo 341"
+},
+{
+    "discountPercent": 79, 
+    "gtins": [
+        1046, 
+        1017, 
+        1021, 
+        1031, 
+        1043
+    ], 
+    "name": "Promo 342"
+},
+{
+    "discountPercent": 41, 
+    "gtins": [
+        1041, 
+        1014, 
+        1028, 
+        1017
+    ], 
+    "name": "Promo 343"
+},
+{
+    "discountPercent": 45, 
+    "gtins": [
+        1001, 
+        1038, 
+        1012, 
+        1039, 
+        1028
+    ], 
+    "name": "Promo 344"
+},
+{
+    "discountPercent": 76, 
+    "gtins": [
+        1042, 
+        1039, 
+        1042
+    ], 
+    "name": "Promo 345"
+},
+{
+    "discountPercent": 48, 
+    "gtins": [
+        1047
+    ], 
+    "name": "Promo 346"
+},
+{
+    "discountPercent": 68, 
+    "gtins": [
+        1038
+    ], 
+    "name": "Promo 347"
+},
+{
+    "discountPercent": 5, 
+    "gtins": [
+        1042, 
+        1045, 
+        1015, 
+        1045
+    ], 
+    "name": "Promo 348"
+},
+{
+    "discountPercent": 24, 
+    "gtins": [
+        1042
+    ], 
+    "name": "Promo 349"
+},
+{
+    "discountPercent": 88, 
+    "gtins": [
+        1030, 
+        1048, 
+        1036
+    ], 
+    "name": "Promo 350"
+},
+{
+    "discountPercent": 52, 
+    "gtins": [
+        1014, 
+        1022, 
+        1010, 
+        1001
+    ], 
+    "name": "Promo 351"
+},
+{
+    "discountPercent": 57, 
+    "gtins": [
+        1014, 
+        1039, 
+        1016
+    ], 
+    "name": "Promo 352"
+},
+{
+    "discountPercent": 83, 
+    "gtins": [
+        1032
+    ], 
+    "name": "Promo 353"
+},
+{
+    "discountPercent": 87, 
+    "gtins": [
+        1022
+    ], 
+    "name": "Promo 354"
+},
+{
+    "discountPercent": 50, 
+    "gtins": [
+        1037, 
+        1032, 
+        1028, 
+        1001
+    ], 
+    "name": "Promo 355"
+},
+{
+    "discountPercent": 29, 
+    "gtins": [
+        1007, 
+        1006
+    ], 
+    "name": "Promo 356"
+},
+{
+    "discountPercent": 90, 
+    "gtins": [
+        1033, 
+        1040, 
+        1041
+    ], 
+    "name": "Promo 357"
+},
+{
+    "discountPercent": 33, 
+    "gtins": [
+        1006, 
+        1008, 
+        1018, 
+        1009, 
+        1016
+    ], 
+    "name": "Promo 358"
+},
+{
+    "discountPercent": 94, 
+    "gtins": [
+        1005, 
+        1042, 
+        1046, 
+        1032
+    ], 
+    "name": "Promo 359"
+},
+{
+    "discountPercent": 85, 
+    "gtins": [
+        1049, 
+        1017, 
+        1026
+    ], 
+    "name": "Promo 360"
+},
+{
+    "discountPercent": 47, 
+    "gtins": [
+        1016
+    ], 
+    "name": "Promo 361"
+},
+{
+    "discountPercent": 37, 
+    "gtins": [
+        1035, 
+        1045, 
+        1047, 
+        1000
+    ], 
+    "name": "Promo 362"
+},
+{
+    "discountPercent": 48, 
+    "gtins": [
+        1007, 
+        1041, 
+        1001, 
+        1024, 
+        1037
+    ], 
+    "name": "Promo 363"
+},
+{
+    "discountPercent": 34, 
+    "gtins": [
+        1017, 
+        1044, 
+        1008, 
+        1010, 
+        1005
+    ], 
+    "name": "Promo 364"
+},
+{
+    "discountPercent": 79, 
+    "gtins": [
+        1031, 
+        1003, 
+        1034
+    ], 
+    "name": "Promo 365"
+},
+{
+    "discountPercent": 34, 
+    "gtins": [
+        1023
+    ], 
+    "name": "Promo 366"
+},
+{
+    "discountPercent": 12, 
+    "gtins": [
+        1045, 
+        1019, 
+        1033
+    ], 
+    "name": "Promo 367"
+},
+{
+    "discountPercent": 27, 
+    "gtins": [
+        1009, 
+        1013, 
+        1041, 
+        1044
+    ], 
+    "name": "Promo 368"
+},
+{
+    "discountPercent": 57, 
+    "gtins": [
+        1037, 
+        1034, 
+        1028, 
+        1045, 
+        1045
+    ], 
+    "name": "Promo 369"
+},
+{
+    "discountPercent": 80, 
+    "gtins": [
+        1007, 
+        1041, 
+        1032, 
+        1028
+    ], 
+    "name": "Promo 370"
+},
+{
+    "discountPercent": 16, 
+    "gtins": [
+        1041, 
+        1014, 
+        1048, 
+        1006
+    ], 
+    "name": "Promo 371"
+},
+{
+    "discountPercent": 83, 
+    "gtins": [
+        1027, 
+        1006, 
+        1019
+    ], 
+    "name": "Promo 372"
+},
+{
+    "discountPercent": 62, 
+    "gtins": [
+        1017, 
+        1019, 
+        1045, 
+        1020
+    ], 
+    "name": "Promo 373"
+},
+{
+    "discountPercent": 7, 
+    "gtins": [
+        1043, 
+        1036, 
+        1036, 
+        1010
+    ], 
+    "name": "Promo 374"
+},
+{
+    "discountPercent": 78, 
+    "gtins": [
+        1033, 
+        1021
+    ], 
+    "name": "Promo 375"
+},
+{
+    "discountPercent": 31, 
+    "gtins": [
+        1000, 
+        1006, 
+        1030
+    ], 
+    "name": "Promo 376"
+},
+{
+    "discountPercent": 56, 
+    "gtins": [
+        1017, 
+        1010, 
+        1033
+    ], 
+    "name": "Promo 377"
+},
+{
+    "discountPercent": 66, 
+    "gtins": [
+        1014, 
+        1041, 
+        1039, 
+        1027
+    ], 
+    "name": "Promo 378"
+},
+{
+    "discountPercent": 95, 
+    "gtins": [
+        1013, 
+        1024
+    ], 
+    "name": "Promo 379"
+},
+{
+    "discountPercent": 40, 
+    "gtins": [
+        1047, 
+        1020, 
+        1027, 
+        1016
+    ], 
+    "name": "Promo 380"
+},
+{
+    "discountPercent": 82, 
+    "gtins": [
+        1028, 
+        1003
+    ], 
+    "name": "Promo 381"
+},
+{
+    "discountPercent": 6, 
+    "gtins": [
+        1030, 
+        1050, 
+        1040, 
+        1029, 
+        1000
+    ], 
+    "name": "Promo 382"
+},
+{
+    "discountPercent": 27, 
+    "gtins": [
+        1021, 
+        1031, 
+        1040, 
+        1044, 
+        1025
+    ], 
+    "name": "Promo 383"
+},
+{
+    "discountPercent": 21, 
+    "gtins": [
+        1039
+    ], 
+    "name": "Promo 384"
+},
+{
+    "discountPercent": 49, 
+    "gtins": [
+        1033, 
+        1012
+    ], 
+    "name": "Promo 385"
+},
+{
+    "discountPercent": 78, 
+    "gtins": [
+        1022, 
+        1027, 
+        1022
+    ], 
+    "name": "Promo 386"
+},
+{
+    "discountPercent": 98, 
+    "gtins": [
+        1007, 
+        1036, 
+        1034, 
+        1038
+    ], 
+    "name": "Promo 387"
+},
+{
+    "discountPercent": 93, 
+    "gtins": [
+        1000, 
+        1015, 
+        1009, 
+        1007
+    ], 
+    "name": "Promo 388"
+},
+{
+    "discountPercent": 39, 
+    "gtins": [
+        1004, 
+        1000, 
+        1035, 
+        1049, 
+        1026
+    ], 
+    "name": "Promo 389"
+},
+{
+    "discountPercent": 5, 
+    "gtins": [
+        1015, 
+        1031, 
+        1048, 
+        1018
+    ], 
+    "name": "Promo 390"
+},
+{
+    "discountPercent": 35, 
+    "gtins": [
+        1042, 
+        1047, 
+        1049, 
+        1022, 
+        1006
+    ], 
+    "name": "Promo 391"
+},
+{
+    "discountPercent": 87, 
+    "gtins": [
+        1050, 
+        1044, 
+        1030, 
+        1021
+    ], 
+    "name": "Promo 392"
+},
+{
+    "discountPercent": 63, 
+    "gtins": [
+        1034, 
+        1038, 
+        1017
+    ], 
+    "name": "Promo 393"
+},
+{
+    "discountPercent": 57, 
+    "gtins": [
+        1035, 
+        1036, 
+        1018
+    ], 
+    "name": "Promo 394"
+},
+{
+    "discountPercent": 36, 
+    "gtins": [
+        1031, 
+        1021, 
+        1008, 
+        1025
+    ], 
+    "name": "Promo 395"
+},
+{
+    "discountPercent": 38, 
+    "gtins": [
+        1019, 
+        1003, 
+        1044, 
+        1000
+    ], 
+    "name": "Promo 396"
+},
+{
+    "discountPercent": 6, 
+    "gtins": [
+        1011
+    ], 
+    "name": "Promo 397"
+},
+{
+    "discountPercent": 64, 
+    "gtins": [
+        1048, 
+        1007, 
+        1046, 
+        1025
+    ], 
+    "name": "Promo 398"
+},
+{
+    "discountPercent": 59, 
+    "gtins": [
+        1006, 
+        1021, 
+        1041, 
+        1014
+    ], 
+    "name": "Promo 399"
+},
+{
+    "discountPercent": 11, 
+    "gtins": [
+        1008, 
+        1035, 
+        1022
+    ], 
+    "name": "Promo 400"
+},
+{
+    "discountPercent": 24, 
+    "gtins": [
+        1005, 
+        1047, 
+        1035, 
+        1024
+    ], 
+    "name": "Promo 401"
+},
+{
+    "discountPercent": 86, 
+    "gtins": [
+        1011
+    ], 
+    "name": "Promo 402"
+},
+{
+    "discountPercent": 44, 
+    "gtins": [
+        1006, 
+        1012, 
+        1011, 
+        1007
+    ], 
+    "name": "Promo 403"
+},
+{
+    "discountPercent": 74, 
+    "gtins": [
+        1034, 
+        1024, 
+        1035
+    ], 
+    "name": "Promo 404"
+},
+{
+    "discountPercent": 31, 
+    "gtins": [
+        1000, 
+        1034, 
+        1012
+    ], 
+    "name": "Promo 405"
+},
+{
+    "discountPercent": 99, 
+    "gtins": [
+        1004, 
+        1040, 
+        1025, 
+        1017, 
+        1000
+    ], 
+    "name": "Promo 406"
+},
+{
+    "discountPercent": 98, 
+    "gtins": [
+        1040, 
+        1022
+    ], 
+    "name": "Promo 407"
+},
+{
+    "discountPercent": 25, 
+    "gtins": [
+        1028
+    ], 
+    "name": "Promo 408"
+},
+{
+    "discountPercent": 19, 
+    "gtins": [
+        1009, 
+        1050, 
+        1025
+    ], 
+    "name": "Promo 409"
+},
+{
+    "discountPercent": 98, 
+    "gtins": [
+        1042
+    ], 
+    "name": "Promo 410"
+},
+{
+    "discountPercent": 56, 
+    "gtins": [
+        1043, 
+        1041, 
+        1018, 
+        1038, 
+        1047
+    ], 
+    "name": "Promo 411"
+},
+{
+    "discountPercent": 49, 
+    "gtins": [
+        1031, 
+        1038, 
+        1041
+    ], 
+    "name": "Promo 412"
+},
+{
+    "discountPercent": 64, 
+    "gtins": [
+        1049
+    ], 
+    "name": "Promo 413"
+},
+{
+    "discountPercent": 61, 
+    "gtins": [
+        1032
+    ], 
+    "name": "Promo 414"
+},
+{
+    "discountPercent": 79, 
+    "gtins": [
+        1038, 
+        1024, 
+        1000
+    ], 
+    "name": "Promo 415"
+},
+{
+    "discountPercent": 91, 
+    "gtins": [
+        1024, 
+        1035
+    ], 
+    "name": "Promo 416"
+},
+{
+    "discountPercent": 97, 
+    "gtins": [
+        1039, 
+        1016, 
+        1015, 
+        1013, 
+        1022
+    ], 
+    "name": "Promo 417"
+},
+{
+    "discountPercent": 21, 
+    "gtins": [
+        1024, 
+        1011
+    ], 
+    "name": "Promo 418"
+},
+{
+    "discountPercent": 59, 
+    "gtins": [
+        1046, 
+        1006, 
+        1029, 
+        1026, 
+        1004
+    ], 
+    "name": "Promo 419"
+},
+{
+    "discountPercent": 71, 
+    "gtins": [
+        1040, 
+        1042, 
+        1044, 
+        1020, 
+        1013
+    ], 
+    "name": "Promo 420"
+},
+{
+    "discountPercent": 77, 
+    "gtins": [
+        1006, 
+        1001, 
+        1010, 
+        1003, 
+        1042
+    ], 
+    "name": "Promo 421"
+},
+{
+    "discountPercent": 36, 
+    "gtins": [
+        1046, 
+        1024, 
+        1035, 
+        1025
+    ], 
+    "name": "Promo 422"
+},
+{
+    "discountPercent": 22, 
+    "gtins": [
+        1003, 
+        1024, 
+        1035
+    ], 
+    "name": "Promo 423"
+},
+{
+    "discountPercent": 89, 
+    "gtins": [
+        1009
+    ], 
+    "name": "Promo 424"
+},
+{
+    "discountPercent": 92, 
+    "gtins": [
+        1026, 
+        1012, 
+        1043, 
+        1034
+    ], 
+    "name": "Promo 425"
+},
+{
+    "discountPercent": 44, 
+    "gtins": [
+        1009, 
+        1025, 
+        1017
+    ], 
+    "name": "Promo 426"
+},
+{
+    "discountPercent": 51, 
+    "gtins": [
+        1015, 
+        1037
+    ], 
+    "name": "Promo 427"
+},
+{
+    "discountPercent": 95, 
+    "gtins": [
+        1014, 
+        1001, 
+        1047
+    ], 
+    "name": "Promo 428"
+},
+{
+    "discountPercent": 4, 
+    "gtins": [
+        1018, 
+        1047, 
+        1015, 
+        1049, 
+        1000
+    ], 
+    "name": "Promo 429"
+},
+{
+    "discountPercent": 20, 
+    "gtins": [
+        1047, 
+        1009, 
+        1050, 
+        1001
+    ], 
+    "name": "Promo 430"
+},
+{
+    "discountPercent": 4, 
+    "gtins": [
+        1023, 
+        1011, 
+        1047
+    ], 
+    "name": "Promo 431"
+},
+{
+    "discountPercent": 55, 
+    "gtins": [
+        1035, 
+        1040, 
+        1005, 
+        1032, 
+        1011
+    ], 
+    "name": "Promo 432"
+},
+{
+    "discountPercent": 24, 
+    "gtins": [
+        1009, 
+        1043
+    ], 
+    "name": "Promo 433"
+},
+{
+    "discountPercent": 46, 
+    "gtins": [
+        1048, 
+        1026, 
+        1022
+    ], 
+    "name": "Promo 434"
+},
+{
+    "discountPercent": 2, 
+    "gtins": [
+        1046
+    ], 
+    "name": "Promo 435"
+},
+{
+    "discountPercent": 69, 
+    "gtins": [
+        1014, 
+        1012, 
+        1006, 
+        1022
+    ], 
+    "name": "Promo 436"
+},
+{
+    "discountPercent": 31, 
+    "gtins": [
+        1022
+    ], 
+    "name": "Promo 437"
+},
+{
+    "discountPercent": 41, 
+    "gtins": [
+        1006
+    ], 
+    "name": "Promo 438"
+},
+{
+    "discountPercent": 2, 
+    "gtins": [
+        1023, 
+        1011, 
+        1043, 
+        1050
+    ], 
+    "name": "Promo 439"
+},
+{
+    "discountPercent": 55, 
+    "gtins": [
+        1006, 
+        1006, 
+        1008, 
+        1018, 
+        1015
+    ], 
+    "name": "Promo 440"
+},
+{
+    "discountPercent": 65, 
+    "gtins": [
+        1045, 
+        1049, 
+        1010, 
+        1049
+    ], 
+    "name": "Promo 441"
+},
+{
+    "discountPercent": 83, 
+    "gtins": [
+        1010, 
+        1021, 
+        1026, 
+        1030
+    ], 
+    "name": "Promo 442"
+},
+{
+    "discountPercent": 1, 
+    "gtins": [
+        1009, 
+        1009
+    ], 
+    "name": "Promo 443"
+},
+{
+    "discountPercent": 30, 
+    "gtins": [
+        1025, 
+        1027
+    ], 
+    "name": "Promo 444"
+},
+{
+    "discountPercent": 12, 
+    "gtins": [
+        1024
+    ], 
+    "name": "Promo 445"
+},
+{
+    "discountPercent": 33, 
+    "gtins": [
+        1036, 
+        1023, 
+        1034
+    ], 
+    "name": "Promo 446"
+},
+{
+    "discountPercent": 42, 
+    "gtins": [
+        1031, 
+        1033
+    ], 
+    "name": "Promo 447"
+},
+{
+    "discountPercent": 66, 
+    "gtins": [
+        1015
+    ], 
+    "name": "Promo 448"
+},
+{
+    "discountPercent": 44, 
+    "gtins": [
+        1023, 
+        1028, 
+        1011, 
+        1042, 
+        1045
+    ], 
+    "name": "Promo 449"
+},
+{
+    "discountPercent": 74, 
+    "gtins": [
+        1006, 
+        1010, 
+        1028, 
+        1004
+    ], 
+    "name": "Promo 450"
+},
+{
+    "discountPercent": 11, 
+    "gtins": [
+        1041, 
+        1020, 
+        1016, 
+        1004, 
+        1037
+    ], 
+    "name": "Promo 451"
+},
+{
+    "discountPercent": 80, 
+    "gtins": [
+        1047, 
+        1012
+    ], 
+    "name": "Promo 452"
+},
+{
+    "discountPercent": 66, 
+    "gtins": [
+        1035, 
+        1028, 
+        1000
+    ], 
+    "name": "Promo 453"
+},
+{
+    "discountPercent": 46, 
+    "gtins": [
+        1047
+    ], 
+    "name": "Promo 454"
+},
+{
+    "discountPercent": 11, 
+    "gtins": [
+        1042
+    ], 
+    "name": "Promo 455"
+},
+{
+    "discountPercent": 5, 
+    "gtins": [
+        1002, 
+        1008, 
+        1002
+    ], 
+    "name": "Promo 456"
+},
+{
+    "discountPercent": 99, 
+    "gtins": [
+        1016
+    ], 
+    "name": "Promo 457"
+},
+{
+    "discountPercent": 59, 
+    "gtins": [
+        1050, 
+        1042
+    ], 
+    "name": "Promo 458"
+},
+{
+    "discountPercent": 51, 
+    "gtins": [
+        1026, 
+        1033, 
+        1010
+    ], 
+    "name": "Promo 459"
+},
+{
+    "discountPercent": 70, 
+    "gtins": [
+        1029, 
+        1016, 
+        1049, 
+        1023, 
+        1022
+    ], 
+    "name": "Promo 460"
+},
+{
+    "discountPercent": 56, 
+    "gtins": [
+        1025, 
+        1049, 
+        1031, 
+        1045, 
+        1005
+    ], 
+    "name": "Promo 461"
+},
+{
+    "discountPercent": 76, 
+    "gtins": [
+        1037, 
+        1018
+    ], 
+    "name": "Promo 462"
+},
+{
+    "discountPercent": 75, 
+    "gtins": [
+        1012, 
+        1031, 
+        1049, 
+        1027
+    ], 
+    "name": "Promo 463"
+},
+{
+    "discountPercent": 47, 
+    "gtins": [
+        1023, 
+        1043
+    ], 
+    "name": "Promo 464"
+},
+{
+    "discountPercent": 7, 
+    "gtins": [
+        1027
+    ], 
+    "name": "Promo 465"
+},
+{
+    "discountPercent": 42, 
+    "gtins": [
+        1031, 
+        1011, 
+        1000
+    ], 
+    "name": "Promo 466"
+},
+{
+    "discountPercent": 92, 
+    "gtins": [
+        1000
+    ], 
+    "name": "Promo 467"
+},
+{
+    "discountPercent": 28, 
+    "gtins": [
+        1044, 
+        1029, 
+        1003
+    ], 
+    "name": "Promo 468"
+},
+{
+    "discountPercent": 17, 
+    "gtins": [
+        1002, 
+        1043, 
+        1038
+    ], 
+    "name": "Promo 469"
+},
+{
+    "discountPercent": 44, 
+    "gtins": [
+        1035, 
+        1010, 
+        1034
+    ], 
+    "name": "Promo 470"
+},
+{
+    "discountPercent": 38, 
+    "gtins": [
+        1030, 
+        1031
+    ], 
+    "name": "Promo 471"
+},
+{
+    "discountPercent": 77, 
+    "gtins": [
+        1002, 
+        1041, 
+        1043, 
+        1047
+    ], 
+    "name": "Promo 472"
+},
+{
+    "discountPercent": 70, 
+    "gtins": [
+        1026, 
+        1042, 
+        1046
+    ], 
+    "name": "Promo 473"
+},
+{
+    "discountPercent": 97, 
+    "gtins": [
+        1005, 
+        1018, 
+        1020
+    ], 
+    "name": "Promo 474"
+},
+{
+    "discountPercent": 14, 
+    "gtins": [
+        1001
+    ], 
+    "name": "Promo 475"
+},
+{
+    "discountPercent": 13, 
+    "gtins": [
+        1045, 
+        1033
+    ], 
+    "name": "Promo 476"
+},
+{
+    "discountPercent": 35, 
+    "gtins": [
+        1035
+    ], 
+    "name": "Promo 477"
+},
+{
+    "discountPercent": 37, 
+    "gtins": [
+        1036, 
+        1006, 
+        1014, 
+        1030
+    ], 
+    "name": "Promo 478"
+},
+{
+    "discountPercent": 91, 
+    "gtins": [
+        1048, 
+        1028, 
+        1044
+    ], 
+    "name": "Promo 479"
+},
+{
+    "discountPercent": 2, 
+    "gtins": [
+        1043
+    ], 
+    "name": "Promo 480"
+},
+{
+    "discountPercent": 98, 
+    "gtins": [
+        1027, 
+        1008, 
+        1004, 
+        1006
+    ], 
+    "name": "Promo 481"
+},
+{
+    "discountPercent": 59, 
+    "gtins": [
+        1016, 
+        1003, 
+        1003, 
+        1016
+    ], 
+    "name": "Promo 482"
+},
+{
+    "discountPercent": 91, 
+    "gtins": [
+        1047, 
+        1040, 
+        1044, 
+        1009, 
+        1006
+    ], 
+    "name": "Promo 483"
+},
+{
+    "discountPercent": 95, 
+    "gtins": [
+        1042, 
+        1024
+    ], 
+    "name": "Promo 484"
+},
+{
+    "discountPercent": 2, 
+    "gtins": [
+        1013
+    ], 
+    "name": "Promo 485"
+},
+{
+    "discountPercent": 60, 
+    "gtins": [
+        1010, 
+        1037, 
+        1040, 
+        1040, 
+        1000
+    ], 
+    "name": "Promo 486"
+},
+{
+    "discountPercent": 49, 
+    "gtins": [
+        1050
+    ], 
+    "name": "Promo 487"
+},
+{
+    "discountPercent": 80, 
+    "gtins": [
+        1017, 
+        1026, 
+        1020, 
+        1004
+    ], 
+    "name": "Promo 488"
+},
+{
+    "discountPercent": 18, 
+    "gtins": [
+        1028, 
+        1039, 
+        1014, 
+        1049, 
+        1038
+    ], 
+    "name": "Promo 489"
+},
+{
+    "discountPercent": 90, 
+    "gtins": [
+        1020, 
+        1033, 
+        1041, 
+        1002, 
+        1033
+    ], 
+    "name": "Promo 490"
+},
+{
+    "discountPercent": 31, 
+    "gtins": [
+        1000
+    ], 
+    "name": "Promo 491"
+},
+{
+    "discountPercent": 83, 
+    "gtins": [
+        1031, 
+        1035, 
+        1017, 
+        1022, 
+        1007
+    ], 
+    "name": "Promo 492"
+},
+{
+    "discountPercent": 85, 
+    "gtins": [
+        1033, 
+        1030
+    ], 
+    "name": "Promo 493"
+},
+{
+    "discountPercent": 73, 
+    "gtins": [
+        1026
+    ], 
+    "name": "Promo 494"
+},
+{
+    "discountPercent": 78, 
+    "gtins": [
+        1020, 
+        1018, 
+        1017, 
+        1010
+    ], 
+    "name": "Promo 495"
+},
+{
+    "discountPercent": 98, 
+    "gtins": [
+        1027, 
+        1006, 
+        1027
+    ], 
+    "name": "Promo 496"
+},
+{
+    "discountPercent": 25, 
+    "gtins": [
+        1001, 
+        1023, 
+        1010, 
+        1043, 
+        1016
+    ], 
+    "name": "Promo 497"
+},
+{
+    "discountPercent": 31, 
+    "gtins": [
+        1048, 
+        1006, 
+        1004, 
+        1015, 
+        1014
+    ], 
+    "name": "Promo 498"
+},
+{
+    "discountPercent": 22, 
+    "gtins": [
+        1034, 
+        1002
+    ], 
+    "name": "Promo 499"
+},
+{
+    "discountPercent": 39, 
+    "gtins": [
+        1045, 
+        1044, 
+        1036, 
+        1024, 
+        1030
+    ], 
+    "name": "Promo 500"
+},
+{
+    "discountPercent": 54, 
+    "gtins": [
+        1040, 
+        1048, 
+        1012, 
+        1033, 
+        1024
+    ], 
+    "name": "Promo 501"
+},
+{
+    "discountPercent": 92, 
+    "gtins": [
+        1006, 
+        1047
+    ], 
+    "name": "Promo 502"
+},
+{
+    "discountPercent": 24, 
+    "gtins": [
+        1014
+    ], 
+    "name": "Promo 503"
+},
+{
+    "discountPercent": 2, 
+    "gtins": [
+        1003, 
+        1028, 
+        1023, 
+        1032
+    ], 
+    "name": "Promo 504"
+},
+{
+    "discountPercent": 13, 
+    "gtins": [
+        1016
+    ], 
+    "name": "Promo 505"
+},
+{
+    "discountPercent": 31, 
+    "gtins": [
+        1024, 
+        1023, 
+        1026, 
+        1035
+    ], 
+    "name": "Promo 506"
+},
+{
+    "discountPercent": 34, 
+    "gtins": [
+        1019, 
+        1009, 
+        1046, 
+        1002, 
+        1048
+    ], 
+    "name": "Promo 507"
+},
+{
+    "discountPercent": 65, 
+    "gtins": [
+        1040, 
+        1041, 
+        1003, 
+        1012
+    ], 
+    "name": "Promo 508"
+},
+{
+    "discountPercent": 55, 
+    "gtins": [
+        1037, 
+        1029, 
+        1014, 
+        1047, 
+        1008
+    ], 
+    "name": "Promo 509"
+},
+{
+    "discountPercent": 84, 
+    "gtins": [
+        1021
+    ], 
+    "name": "Promo 510"
+},
+{
+    "discountPercent": 3, 
+    "gtins": [
+        1040, 
+        1032, 
+        1033, 
+        1037
+    ], 
+    "name": "Promo 511"
+},
+{
+    "discountPercent": 46, 
+    "gtins": [
+        1013, 
+        1043, 
+        1046
+    ], 
+    "name": "Promo 512"
+},
+{
+    "discountPercent": 66, 
+    "gtins": [
+        1030, 
+        1000, 
+        1026, 
+        1022, 
+        1032
+    ], 
+    "name": "Promo 513"
+},
+{
+    "discountPercent": 29, 
+    "gtins": [
+        1028, 
+        1025, 
+        1048, 
+        1012
+    ], 
+    "name": "Promo 514"
+},
+{
+    "discountPercent": 45, 
+    "gtins": [
+        1011, 
+        1021
+    ], 
+    "name": "Promo 515"
+},
+{
+    "discountPercent": 12, 
+    "gtins": [
+        1016, 
+        1041, 
+        1010, 
+        1014
+    ], 
+    "name": "Promo 516"
+},
+{
+    "discountPercent": 92, 
+    "gtins": [
+        1039, 
+        1007, 
+        1034
+    ], 
+    "name": "Promo 517"
+},
+{
+    "discountPercent": 47, 
+    "gtins": [
+        1019
+    ], 
+    "name": "Promo 518"
+},
+{
+    "discountPercent": 48, 
+    "gtins": [
+        1025, 
+        1038, 
+        1006, 
+        1021, 
+        1024
+    ], 
+    "name": "Promo 519"
+},
+{
+    "discountPercent": 48, 
+    "gtins": [
+        1009, 
+        1032, 
+        1015
+    ], 
+    "name": "Promo 520"
+},
+{
+    "discountPercent": 55, 
+    "gtins": [
+        1007, 
+        1035, 
+        1037, 
+        1034, 
+        1043
+    ], 
+    "name": "Promo 521"
+},
+{
+    "discountPercent": 55, 
+    "gtins": [
+        1042, 
+        1020, 
+        1020
+    ], 
+    "name": "Promo 522"
+},
+{
+    "discountPercent": 99, 
+    "gtins": [
+        1044, 
+        1034, 
+        1024, 
+        1010, 
+        1010
+    ], 
+    "name": "Promo 523"
+},
+{
+    "discountPercent": 91, 
+    "gtins": [
+        1017, 
+        1040, 
+        1003, 
+        1010, 
+        1045
+    ], 
+    "name": "Promo 524"
+},
+{
+    "discountPercent": 41, 
+    "gtins": [
+        1042, 
+        1012, 
+        1041, 
+        1049
+    ], 
+    "name": "Promo 525"
+},
+{
+    "discountPercent": 7, 
+    "gtins": [
+        1018, 
+        1023, 
+        1029, 
+        1045, 
+        1045
+    ], 
+    "name": "Promo 526"
+},
+{
+    "discountPercent": 53, 
+    "gtins": [
+        1004
+    ], 
+    "name": "Promo 527"
+},
+{
+    "discountPercent": 61, 
+    "gtins": [
+        1006, 
+        1032, 
+        1036, 
+        1029
+    ], 
+    "name": "Promo 528"
+},
+{
+    "discountPercent": 10, 
+    "gtins": [
+        1028, 
+        1023, 
+        1037, 
+        1050, 
+        1041
+    ], 
+    "name": "Promo 529"
+},
+{
+    "discountPercent": 87, 
+    "gtins": [
+        1040
+    ], 
+    "name": "Promo 530"
+},
+{
+    "discountPercent": 98, 
+    "gtins": [
+        1004, 
+        1027, 
+        1042, 
+        1020, 
+        1039
+    ], 
+    "name": "Promo 531"
+},
+{
+    "discountPercent": 56, 
+    "gtins": [
+        1020, 
+        1012, 
+        1033
+    ], 
+    "name": "Promo 532"
+},
+{
+    "discountPercent": 19, 
+    "gtins": [
+        1024, 
+        1017, 
+        1042, 
+        1033, 
+        1014
+    ], 
+    "name": "Promo 533"
+},
+{
+    "discountPercent": 93, 
+    "gtins": [
+        1010, 
+        1001, 
+        1016, 
+        1003
+    ], 
+    "name": "Promo 534"
+},
+{
+    "discountPercent": 58, 
+    "gtins": [
+        1028, 
+        1048, 
+        1045, 
+        1049
+    ], 
+    "name": "Promo 535"
+},
+{
+    "discountPercent": 3, 
+    "gtins": [
+        1033, 
+        1030, 
+        1049, 
+        1029
+    ], 
+    "name": "Promo 536"
+},
+{
+    "discountPercent": 1, 
+    "gtins": [
+        1040, 
+        1015, 
+        1011, 
+        1004
+    ], 
+    "name": "Promo 537"
+},
+{
+    "discountPercent": 80, 
+    "gtins": [
+        1021
+    ], 
+    "name": "Promo 538"
+},
+{
+    "discountPercent": 30, 
+    "gtins": [
+        1018, 
+        1033, 
+        1042, 
+        1010
+    ], 
+    "name": "Promo 539"
+},
+{
+    "discountPercent": 7, 
+    "gtins": [
+        1023, 
+        1023, 
+        1017, 
+        1020
+    ], 
+    "name": "Promo 540"
+},
+{
+    "discountPercent": 40, 
+    "gtins": [
+        1010, 
+        1034, 
+        1010, 
+        1017, 
+        1013
+    ], 
+    "name": "Promo 541"
+},
+{
+    "discountPercent": 48, 
+    "gtins": [
+        1006, 
+        1021
+    ], 
+    "name": "Promo 542"
+},
+{
+    "discountPercent": 41, 
+    "gtins": [
+        1003, 
+        1040, 
+        1022, 
+        1022
+    ], 
+    "name": "Promo 543"
+},
+{
+    "discountPercent": 1, 
+    "gtins": [
+        1028, 
+        1037
+    ], 
+    "name": "Promo 544"
+},
+{
+    "discountPercent": 50, 
+    "gtins": [
+        1047
+    ], 
+    "name": "Promo 545"
+},
+{
+    "discountPercent": 39, 
+    "gtins": [
+        1044, 
+        1001, 
+        1036, 
+        1002
+    ], 
+    "name": "Promo 546"
+},
+{
+    "discountPercent": 12, 
+    "gtins": [
+        1013
+    ], 
+    "name": "Promo 547"
+},
+{
+    "discountPercent": 52, 
+    "gtins": [
+        1010
+    ], 
+    "name": "Promo 548"
+},
+{
+    "discountPercent": 14, 
+    "gtins": [
+        1031
+    ], 
+    "name": "Promo 549"
+},
+{
+    "discountPercent": 26, 
+    "gtins": [
+        1009
+    ], 
+    "name": "Promo 550"
+},
+{
+    "discountPercent": 1, 
+    "gtins": [
+        1027, 
+        1041, 
+        1002, 
+        1003
+    ], 
+    "name": "Promo 551"
+},
+{
+    "discountPercent": 46, 
+    "gtins": [
+        1049, 
+        1050, 
+        1024
+    ], 
+    "name": "Promo 552"
+},
+{
+    "discountPercent": 89, 
+    "gtins": [
+        1043, 
+        1026, 
+        1007, 
+        1024, 
+        1018
+    ], 
+    "name": "Promo 553"
+},
+{
+    "discountPercent": 41, 
+    "gtins": [
+        1044, 
+        1021, 
+        1003
+    ], 
+    "name": "Promo 554"
+},
+{
+    "discountPercent": 57, 
+    "gtins": [
+        1014, 
+        1039
+    ], 
+    "name": "Promo 555"
+},
+{
+    "discountPercent": 78, 
+    "gtins": [
+        1039, 
+        1045, 
+        1018, 
+        1001, 
+        1010
+    ], 
+    "name": "Promo 556"
+},
+{
+    "discountPercent": 54, 
+    "gtins": [
+        1035
+    ], 
+    "name": "Promo 557"
+},
+{
+    "discountPercent": 31, 
+    "gtins": [
+        1024, 
+        1004, 
+        1037, 
+        1027
+    ], 
+    "name": "Promo 558"
+},
+{
+    "discountPercent": 55, 
+    "gtins": [
+        1012, 
+        1017, 
+        1046, 
+        1026
+    ], 
+    "name": "Promo 559"
+},
+{
+    "discountPercent": 7, 
+    "gtins": [
+        1025
+    ], 
+    "name": "Promo 560"
+},
+{
+    "discountPercent": 18, 
+    "gtins": [
+        1029, 
+        1000
+    ], 
+    "name": "Promo 561"
+},
+{
+    "discountPercent": 86, 
+    "gtins": [
+        1003, 
+        1039
+    ], 
+    "name": "Promo 562"
+},
+{
+    "discountPercent": 38, 
+    "gtins": [
+        1001, 
+        1033, 
+        1046
+    ], 
+    "name": "Promo 563"
+},
+{
+    "discountPercent": 41, 
+    "gtins": [
+        1028, 
+        1025, 
+        1003, 
+        1011, 
+        1016
+    ], 
+    "name": "Promo 564"
+},
+{
+    "discountPercent": 61, 
+    "gtins": [
+        1020, 
+        1008
+    ], 
+    "name": "Promo 565"
+},
+{
+    "discountPercent": 77, 
+    "gtins": [
+        1035, 
+        1012, 
+        1003, 
+        1046, 
+        1026
+    ], 
+    "name": "Promo 566"
+},
+{
+    "discountPercent": 10, 
+    "gtins": [
+        1040, 
+        1032, 
+        1032
+    ], 
+    "name": "Promo 567"
+},
+{
+    "discountPercent": 1, 
+    "gtins": [
+        1004, 
+        1013, 
+        1007
+    ], 
+    "name": "Promo 568"
+},
+{
+    "discountPercent": 68, 
+    "gtins": [
+        1013, 
+        1040, 
+        1049, 
+        1015
+    ], 
+    "name": "Promo 569"
+},
+{
+    "discountPercent": 95, 
+    "gtins": [
+        1047
+    ], 
+    "name": "Promo 570"
+},
+{
+    "discountPercent": 61, 
+    "gtins": [
+        1019, 
+        1008, 
+        1006, 
+        1041
+    ], 
+    "name": "Promo 571"
+},
+{
+    "discountPercent": 8, 
+    "gtins": [
+        1007
+    ], 
+    "name": "Promo 572"
+},
+{
+    "discountPercent": 67, 
+    "gtins": [
+        1030
+    ], 
+    "name": "Promo 573"
+},
+{
+    "discountPercent": 34, 
+    "gtins": [
+        1042, 
+        1008
+    ], 
+    "name": "Promo 574"
+},
+{
+    "discountPercent": 66, 
+    "gtins": [
+        1039, 
+        1004
+    ], 
+    "name": "Promo 575"
+},
+{
+    "discountPercent": 43, 
+    "gtins": [
+        1009, 
+        1010, 
+        1046
+    ], 
+    "name": "Promo 576"
+},
+{
+    "discountPercent": 83, 
+    "gtins": [
+        1046, 
+        1021, 
+        1033, 
+        1047
+    ], 
+    "name": "Promo 577"
+},
+{
+    "discountPercent": 79, 
+    "gtins": [
+        1043, 
+        1014
+    ], 
+    "name": "Promo 578"
+},
+{
+    "discountPercent": 3, 
+    "gtins": [
+        1002
+    ], 
+    "name": "Promo 579"
+},
+{
+    "discountPercent": 46, 
+    "gtins": [
+        1035
+    ], 
+    "name": "Promo 580"
+},
+{
+    "discountPercent": 85, 
+    "gtins": [
+        1014, 
+        1019, 
+        1009, 
+        1036, 
+        1011
+    ], 
+    "name": "Promo 581"
+},
+{
+    "discountPercent": 54, 
+    "gtins": [
+        1049, 
+        1032, 
+        1003, 
+        1037, 
+        1024
+    ], 
+    "name": "Promo 582"
+},
+{
+    "discountPercent": 9, 
+    "gtins": [
+        1033
+    ], 
+    "name": "Promo 583"
+},
+{
+    "discountPercent": 69, 
+    "gtins": [
+        1038, 
+        1038, 
+        1041
+    ], 
+    "name": "Promo 584"
+},
+{
+    "discountPercent": 22, 
+    "gtins": [
+        1003, 
+        1022, 
+        1033, 
+        1049
+    ], 
+    "name": "Promo 585"
+},
+{
+    "discountPercent": 58, 
+    "gtins": [
+        1018, 
+        1005
+    ], 
+    "name": "Promo 586"
+},
+{
+    "discountPercent": 76, 
+    "gtins": [
+        1013, 
+        1013, 
+        1040, 
+        1011, 
+        1022
+    ], 
+    "name": "Promo 587"
+},
+{
+    "discountPercent": 92, 
+    "gtins": [
+        1009, 
+        1033, 
+        1023, 
+        1032, 
+        1035
+    ], 
+    "name": "Promo 588"
+},
+{
+    "discountPercent": 85, 
+    "gtins": [
+        1036
+    ], 
+    "name": "Promo 589"
+},
+{
+    "discountPercent": 63, 
+    "gtins": [
+        1036, 
+        1023, 
+        1035, 
+        1049
+    ], 
+    "name": "Promo 590"
+},
+{
+    "discountPercent": 99, 
+    "gtins": [
+        1029, 
+        1039
+    ], 
+    "name": "Promo 591"
+},
+{
+    "discountPercent": 19, 
+    "gtins": [
+        1014, 
+        1000, 
+        1004, 
+        1027, 
+        1014
+    ], 
+    "name": "Promo 592"
+},
+{
+    "discountPercent": 85, 
+    "gtins": [
+        1043, 
+        1033, 
+        1003
+    ], 
+    "name": "Promo 593"
+},
+{
+    "discountPercent": 96, 
+    "gtins": [
+        1039, 
+        1029, 
+        1020, 
+        1024, 
+        1008
+    ], 
+    "name": "Promo 594"
+},
+{
+    "discountPercent": 56, 
+    "gtins": [
+        1026, 
+        1029, 
+        1022
+    ], 
+    "name": "Promo 595"
+},
+{
+    "discountPercent": 46, 
+    "gtins": [
+        1002, 
+        1014, 
+        1019
+    ], 
+    "name": "Promo 596"
+},
+{
+    "discountPercent": 45, 
+    "gtins": [
+        1023
+    ], 
+    "name": "Promo 597"
+},
+{
+    "discountPercent": 77, 
+    "gtins": [
+        1001
+    ], 
+    "name": "Promo 598"
+},
+{
+    "discountPercent": 51, 
+    "gtins": [
+        1000, 
+        1046, 
+        1026
+    ], 
+    "name": "Promo 599"
+},
+{
+    "discountPercent": 5, 
+    "gtins": [
+        1007, 
+        1028
+    ], 
+    "name": "Promo 600"
+},
+{
+    "discountPercent": 27, 
+    "gtins": [
+        1024, 
+        1043, 
+        1024
+    ], 
+    "name": "Promo 601"
+},
+{
+    "discountPercent": 69, 
+    "gtins": [
+        1048
+    ], 
+    "name": "Promo 602"
+},
+{
+    "discountPercent": 35, 
+    "gtins": [
+        1006
+    ], 
+    "name": "Promo 603"
+},
+{
+    "discountPercent": 52, 
+    "gtins": [
+        1029, 
+        1046
+    ], 
+    "name": "Promo 604"
+},
+{
+    "discountPercent": 25, 
+    "gtins": [
+        1045, 
+        1028, 
+        1048, 
+        1030
+    ], 
+    "name": "Promo 605"
+},
+{
+    "discountPercent": 7, 
+    "gtins": [
+        1023, 
+        1044, 
+        1042, 
+        1004, 
+        1030
+    ], 
+    "name": "Promo 606"
+},
+{
+    "discountPercent": 23, 
+    "gtins": [
+        1042
+    ], 
+    "name": "Promo 607"
+},
+{
+    "discountPercent": 36, 
+    "gtins": [
+        1008, 
+        1010
+    ], 
+    "name": "Promo 608"
+},
+{
+    "discountPercent": 24, 
+    "gtins": [
+        1024, 
+        1031, 
+        1046, 
+        1024, 
+        1005
+    ], 
+    "name": "Promo 609"
+},
+{
+    "discountPercent": 73, 
+    "gtins": [
+        1022, 
+        1030, 
+        1013, 
+        1008, 
+        1044
+    ], 
+    "name": "Promo 610"
+},
+{
+    "discountPercent": 52, 
+    "gtins": [
+        1011, 
+        1014, 
+        1019, 
+        1018
+    ], 
+    "name": "Promo 611"
+},
+{
+    "discountPercent": 56, 
+    "gtins": [
+        1032, 
+        1036, 
+        1022, 
+        1034
+    ], 
+    "name": "Promo 612"
+},
+{
+    "discountPercent": 14, 
+    "gtins": [
+        1035, 
+        1022, 
+        1019, 
+        1030
+    ], 
+    "name": "Promo 613"
+},
+{
+    "discountPercent": 94, 
+    "gtins": [
+        1014, 
+        1043, 
+        1038
+    ], 
+    "name": "Promo 614"
+},
+{
+    "discountPercent": 45, 
+    "gtins": [
+        1027, 
+        1019, 
+        1037, 
+        1044, 
+        1013
+    ], 
+    "name": "Promo 615"
+},
+{
+    "discountPercent": 23, 
+    "gtins": [
+        1021, 
+        1034, 
+        1037, 
+        1015
+    ], 
+    "name": "Promo 616"
+},
+{
+    "discountPercent": 48, 
+    "gtins": [
+        1034
+    ], 
+    "name": "Promo 617"
+},
+{
+    "discountPercent": 54, 
+    "gtins": [
+        1045, 
+        1019, 
+        1002, 
+        1021
+    ], 
+    "name": "Promo 618"
+},
+{
+    "discountPercent": 41, 
+    "gtins": [
+        1017
+    ], 
+    "name": "Promo 619"
+},
+{
+    "discountPercent": 96, 
+    "gtins": [
+        1045, 
+        1023
+    ], 
+    "name": "Promo 620"
+},
+{
+    "discountPercent": 58, 
+    "gtins": [
+        1003, 
+        1028, 
+        1016, 
+        1041, 
+        1005
+    ], 
+    "name": "Promo 621"
+},
+{
+    "discountPercent": 20, 
+    "gtins": [
+        1022, 
+        1027, 
+        1042, 
+        1032
+    ], 
+    "name": "Promo 622"
+},
+{
+    "discountPercent": 29, 
+    "gtins": [
+        1039
+    ], 
+    "name": "Promo 623"
+},
+{
+    "discountPercent": 83, 
+    "gtins": [
+        1019, 
+        1019, 
+        1013, 
+        1021, 
+        1009
+    ], 
+    "name": "Promo 624"
+},
+{
+    "discountPercent": 86, 
+    "gtins": [
+        1014, 
+        1044
+    ], 
+    "name": "Promo 625"
+},
+{
+    "discountPercent": 3, 
+    "gtins": [
+        1032, 
+        1008, 
+        1019
+    ], 
+    "name": "Promo 626"
+},
+{
+    "discountPercent": 69, 
+    "gtins": [
+        1018, 
+        1003, 
+        1001
+    ], 
+    "name": "Promo 627"
+},
+{
+    "discountPercent": 89, 
+    "gtins": [
+        1020, 
+        1024, 
+        1024, 
+        1050
+    ], 
+    "name": "Promo 628"
+},
+{
+    "discountPercent": 71, 
+    "gtins": [
+        1042, 
+        1009, 
+        1003, 
+        1042, 
+        1010
+    ], 
+    "name": "Promo 629"
+},
+{
+    "discountPercent": 59, 
+    "gtins": [
+        1002, 
+        1023
+    ], 
+    "name": "Promo 630"
+},
+{
+    "discountPercent": 33, 
+    "gtins": [
+        1002, 
+        1026, 
+        1018, 
+        1029, 
+        1049
+    ], 
+    "name": "Promo 631"
+},
+{
+    "discountPercent": 72, 
+    "gtins": [
+        1041, 
+        1010
+    ], 
+    "name": "Promo 632"
+},
+{
+    "discountPercent": 41, 
+    "gtins": [
+        1035, 
+        1049, 
+        1038
+    ], 
+    "name": "Promo 633"
+},
+{
+    "discountPercent": 13, 
+    "gtins": [
+        1010
+    ], 
+    "name": "Promo 634"
+},
+{
+    "discountPercent": 48, 
+    "gtins": [
+        1045, 
+        1046
+    ], 
+    "name": "Promo 635"
+},
+{
+    "discountPercent": 77, 
+    "gtins": [
+        1019, 
+        1049, 
+        1000, 
+        1034
+    ], 
+    "name": "Promo 636"
+},
+{
+    "discountPercent": 79, 
+    "gtins": [
+        1016, 
+        1050, 
+        1014, 
+        1043
+    ], 
+    "name": "Promo 637"
+},
+{
+    "discountPercent": 2, 
+    "gtins": [
+        1019
+    ], 
+    "name": "Promo 638"
+},
+{
+    "discountPercent": 57, 
+    "gtins": [
+        1039, 
+        1047, 
+        1003, 
+        1045, 
+        1049
+    ], 
+    "name": "Promo 639"
+},
+{
+    "discountPercent": 60, 
+    "gtins": [
+        1008, 
+        1026, 
+        1046
+    ], 
+    "name": "Promo 640"
+},
+{
+    "discountPercent": 97, 
+    "gtins": [
+        1042, 
+        1023, 
+        1037, 
+        1000, 
+        1007
+    ], 
+    "name": "Promo 641"
+},
+{
+    "discountPercent": 2, 
+    "gtins": [
+        1025, 
+        1032
+    ], 
+    "name": "Promo 642"
+},
+{
+    "discountPercent": 85, 
+    "gtins": [
+        1019, 
+        1013
+    ], 
+    "name": "Promo 643"
+},
+{
+    "discountPercent": 76, 
+    "gtins": [
+        1039
+    ], 
+    "name": "Promo 644"
+},
+{
+    "discountPercent": 15, 
+    "gtins": [
+        1046, 
+        1048, 
+        1032, 
+        1033, 
+        1050
+    ], 
+    "name": "Promo 645"
+},
+{
+    "discountPercent": 38, 
+    "gtins": [
+        1030, 
+        1027, 
+        1007, 
+        1038
+    ], 
+    "name": "Promo 646"
+},
+{
+    "discountPercent": 7, 
+    "gtins": [
+        1005
+    ], 
+    "name": "Promo 647"
+},
+{
+    "discountPercent": 5, 
+    "gtins": [
+        1027
+    ], 
+    "name": "Promo 648"
+},
+{
+    "discountPercent": 80, 
+    "gtins": [
+        1022, 
+        1011, 
+        1015
+    ], 
+    "name": "Promo 649"
+},
+{
+    "discountPercent": 40, 
+    "gtins": [
+        1021, 
+        1004, 
+        1043, 
+        1006, 
+        1017
+    ], 
+    "name": "Promo 650"
+},
+{
+    "discountPercent": 25, 
+    "gtins": [
+        1020, 
+        1021
+    ], 
+    "name": "Promo 651"
+},
+{
+    "discountPercent": 59, 
+    "gtins": [
+        1005, 
+        1017, 
+        1038
+    ], 
+    "name": "Promo 652"
+},
+{
+    "discountPercent": 55, 
+    "gtins": [
+        1038, 
+        1006, 
+        1043, 
+        1008
+    ], 
+    "name": "Promo 653"
+},
+{
+    "discountPercent": 77, 
+    "gtins": [
+        1001, 
+        1040, 
+        1025, 
+        1007
+    ], 
+    "name": "Promo 654"
+},
+{
+    "discountPercent": 66, 
+    "gtins": [
+        1008, 
+        1032, 
+        1027
+    ], 
+    "name": "Promo 655"
+},
+{
+    "discountPercent": 34, 
+    "gtins": [
+        1025, 
+        1009, 
+        1044, 
+        1045
+    ], 
+    "name": "Promo 656"
+},
+{
+    "discountPercent": 82, 
+    "gtins": [
+        1040, 
+        1008, 
+        1048
+    ], 
+    "name": "Promo 657"
+},
+{
+    "discountPercent": 26, 
+    "gtins": [
+        1040, 
+        1048, 
+        1049
+    ], 
+    "name": "Promo 658"
+},
+{
+    "discountPercent": 16, 
+    "gtins": [
+        1006, 
+        1050, 
+        1034, 
+        1015, 
+        1011
+    ], 
+    "name": "Promo 659"
+},
+{
+    "discountPercent": 3, 
+    "gtins": [
+        1027
+    ], 
+    "name": "Promo 660"
+},
+{
+    "discountPercent": 90, 
+    "gtins": [
+        1049, 
+        1043, 
+        1038, 
+        1021, 
+        1014
+    ], 
+    "name": "Promo 661"
+},
+{
+    "discountPercent": 9, 
+    "gtins": [
+        1011, 
+        1038, 
+        1008, 
+        1043, 
+        1004
+    ], 
+    "name": "Promo 662"
+},
+{
+    "discountPercent": 61, 
+    "gtins": [
+        1010, 
+        1005, 
+        1026
+    ], 
+    "name": "Promo 663"
+},
+{
+    "discountPercent": 12, 
+    "gtins": [
+        1015, 
+        1006
+    ], 
+    "name": "Promo 664"
+},
+{
+    "discountPercent": 31, 
+    "gtins": [
+        1043
+    ], 
+    "name": "Promo 665"
+},
+{
+    "discountPercent": 82, 
+    "gtins": [
+        1038, 
+        1018, 
+        1044
+    ], 
+    "name": "Promo 666"
+},
+{
+    "discountPercent": 41, 
+    "gtins": [
+        1017, 
+        1019
+    ], 
+    "name": "Promo 667"
+},
+{
+    "discountPercent": 84, 
+    "gtins": [
+        1044, 
+        1028, 
+        1002, 
+        1028
+    ], 
+    "name": "Promo 668"
+},
+{
+    "discountPercent": 46, 
+    "gtins": [
+        1046, 
+        1042, 
+        1020
+    ], 
+    "name": "Promo 669"
+},
+{
+    "discountPercent": 55, 
+    "gtins": [
+        1023, 
+        1000, 
+        1025, 
+        1016
+    ], 
+    "name": "Promo 670"
+},
+{
+    "discountPercent": 88, 
+    "gtins": [
+        1026, 
+        1021
+    ], 
+    "name": "Promo 671"
+},
+{
+    "discountPercent": 29, 
+    "gtins": [
+        1029, 
+        1036, 
+        1026, 
+        1032, 
+        1043
+    ], 
+    "name": "Promo 672"
+},
+{
+    "discountPercent": 52, 
+    "gtins": [
+        1016, 
+        1028, 
+        1000
+    ], 
+    "name": "Promo 673"
+},
+{
+    "discountPercent": 23, 
+    "gtins": [
+        1048, 
+        1039
+    ], 
+    "name": "Promo 674"
+},
+{
+    "discountPercent": 5, 
+    "gtins": [
+        1014, 
+        1031, 
+        1034, 
+        1048
+    ], 
+    "name": "Promo 675"
+},
+{
+    "discountPercent": 55, 
+    "gtins": [
+        1012, 
+        1010, 
+        1018
+    ], 
+    "name": "Promo 676"
+},
+{
+    "discountPercent": 91, 
+    "gtins": [
+        1050, 
+        1009, 
+        1008, 
+        1022, 
+        1035
+    ], 
+    "name": "Promo 677"
+},
+{
+    "discountPercent": 80, 
+    "gtins": [
+        1011, 
+        1035, 
+        1044, 
+        1004, 
+        1021
+    ], 
+    "name": "Promo 678"
+},
+{
+    "discountPercent": 26, 
+    "gtins": [
+        1038, 
+        1039
+    ], 
+    "name": "Promo 679"
+},
+{
+    "discountPercent": 53, 
+    "gtins": [
+        1011, 
+        1000
+    ], 
+    "name": "Promo 680"
+},
+{
+    "discountPercent": 72, 
+    "gtins": [
+        1012
+    ], 
+    "name": "Promo 681"
+},
+{
+    "discountPercent": 76, 
+    "gtins": [
+        1023, 
+        1038, 
+        1015, 
+        1022, 
+        1024
+    ], 
+    "name": "Promo 682"
+},
+{
+    "discountPercent": 4, 
+    "gtins": [
+        1002
+    ], 
+    "name": "Promo 683"
+},
+{
+    "discountPercent": 63, 
+    "gtins": [
+        1015, 
+        1026, 
+        1014, 
+        1044
+    ], 
+    "name": "Promo 684"
+},
+{
+    "discountPercent": 62, 
+    "gtins": [
+        1032, 
+        1032, 
+        1020
+    ], 
+    "name": "Promo 685"
+},
+{
+    "discountPercent": 44, 
+    "gtins": [
+        1025, 
+        1040, 
+        1028
+    ], 
+    "name": "Promo 686"
+},
+{
+    "discountPercent": 39, 
+    "gtins": [
+        1030, 
+        1038
+    ], 
+    "name": "Promo 687"
+},
+{
+    "discountPercent": 18, 
+    "gtins": [
+        1006
+    ], 
+    "name": "Promo 688"
+},
+{
+    "discountPercent": 20, 
+    "gtins": [
+        1019, 
+        1032, 
+        1017
+    ], 
+    "name": "Promo 689"
+},
+{
+    "discountPercent": 46, 
+    "gtins": [
+        1037, 
+        1008, 
+        1038
+    ], 
+    "name": "Promo 690"
+},
+{
+    "discountPercent": 84, 
+    "gtins": [
+        1025, 
+        1004, 
+        1024
+    ], 
+    "name": "Promo 691"
+},
+{
+    "discountPercent": 89, 
+    "gtins": [
+        1031, 
+        1000, 
+        1009, 
+        1022, 
+        1047
+    ], 
+    "name": "Promo 692"
+},
+{
+    "discountPercent": 43, 
+    "gtins": [
+        1001
+    ], 
+    "name": "Promo 693"
+},
+{
+    "discountPercent": 38, 
+    "gtins": [
+        1019, 
+        1027, 
+        1017
+    ], 
+    "name": "Promo 694"
+},
+{
+    "discountPercent": 7, 
+    "gtins": [
+        1008
+    ], 
+    "name": "Promo 695"
+},
+{
+    "discountPercent": 30, 
+    "gtins": [
+        1035, 
+        1030, 
+        1035
+    ], 
+    "name": "Promo 696"
+},
+{
+    "discountPercent": 5, 
+    "gtins": [
+        1025, 
+        1002, 
+        1025
+    ], 
+    "name": "Promo 697"
+},
+{
+    "discountPercent": 74, 
+    "gtins": [
+        1049
+    ], 
+    "name": "Promo 698"
+},
+{
+    "discountPercent": 71, 
+    "gtins": [
+        1008, 
+        1036, 
+        1002, 
+        1043, 
+        1032
+    ], 
+    "name": "Promo 699"
+},
+{
+    "discountPercent": 70, 
+    "gtins": [
+        1019, 
+        1034, 
+        1048, 
+        1032, 
+        1041
+    ], 
+    "name": "Promo 700"
+},
+{
+    "discountPercent": 15, 
+    "gtins": [
+        1031, 
+        1046, 
+        1014, 
+        1046, 
+        1003
+    ], 
+    "name": "Promo 701"
+},
+{
+    "discountPercent": 2, 
+    "gtins": [
+        1049, 
+        1004, 
+        1019
+    ], 
+    "name": "Promo 702"
+},
+{
+    "discountPercent": 41, 
+    "gtins": [
+        1018, 
+        1022, 
+        1040, 
+        1040, 
+        1020
+    ], 
+    "name": "Promo 703"
+},
+{
+    "discountPercent": 81, 
+    "gtins": [
+        1007, 
+        1027
+    ], 
+    "name": "Promo 704"
+},
+{
+    "discountPercent": 90, 
+    "gtins": [
+        1031, 
+        1008, 
+        1044, 
+        1000
+    ], 
+    "name": "Promo 705"
+},
+{
+    "discountPercent": 54, 
+    "gtins": [
+        1049, 
+        1000, 
+        1033
+    ], 
+    "name": "Promo 706"
+},
+{
+    "discountPercent": 5, 
+    "gtins": [
+        1041, 
+        1015, 
+        1015
+    ], 
+    "name": "Promo 707"
+},
+{
+    "discountPercent": 83, 
+    "gtins": [
+        1038, 
+        1038, 
+        1038
+    ], 
+    "name": "Promo 708"
+},
+{
+    "discountPercent": 52, 
+    "gtins": [
+        1022, 
+        1009
+    ], 
+    "name": "Promo 709"
+},
+{
+    "discountPercent": 47, 
+    "gtins": [
+        1027, 
+        1007
+    ], 
+    "name": "Promo 710"
+},
+{
+    "discountPercent": 83, 
+    "gtins": [
+        1012, 
+        1002, 
+        1047
+    ], 
+    "name": "Promo 711"
+},
+{
+    "discountPercent": 29, 
+    "gtins": [
+        1033, 
+        1044, 
+        1050, 
+        1022, 
+        1037
+    ], 
+    "name": "Promo 712"
+},
+{
+    "discountPercent": 70, 
+    "gtins": [
+        1028, 
+        1010, 
+        1028, 
+        1017, 
+        1026
+    ], 
+    "name": "Promo 713"
+},
+{
+    "discountPercent": 29, 
+    "gtins": [
+        1043
+    ], 
+    "name": "Promo 714"
+},
+{
+    "discountPercent": 39, 
+    "gtins": [
+        1042, 
+        1009, 
+        1041, 
+        1039
+    ], 
+    "name": "Promo 715"
+},
+{
+    "discountPercent": 47, 
+    "gtins": [
+        1014
+    ], 
+    "name": "Promo 716"
+},
+{
+    "discountPercent": 47, 
+    "gtins": [
+        1007, 
+        1047
+    ], 
+    "name": "Promo 717"
+},
+{
+    "discountPercent": 36, 
+    "gtins": [
+        1033, 
+        1032, 
+        1014
+    ], 
+    "name": "Promo 718"
+},
+{
+    "discountPercent": 59, 
+    "gtins": [
+        1045, 
+        1040, 
+        1026
+    ], 
+    "name": "Promo 719"
+},
+{
+    "discountPercent": 87, 
+    "gtins": [
+        1045, 
+        1017, 
+        1008
+    ], 
+    "name": "Promo 720"
+},
+{
+    "discountPercent": 54, 
+    "gtins": [
+        1032, 
+        1006, 
+        1017, 
+        1014
+    ], 
+    "name": "Promo 721"
+},
+{
+    "discountPercent": 90, 
+    "gtins": [
+        1048, 
+        1008, 
+        1032, 
+        1026, 
+        1042
+    ], 
+    "name": "Promo 722"
+},
+{
+    "discountPercent": 17, 
+    "gtins": [
+        1039, 
+        1010, 
+        1017, 
+        1029
+    ], 
+    "name": "Promo 723"
+},
+{
+    "discountPercent": 9, 
+    "gtins": [
+        1007, 
+        1045, 
+        1011
+    ], 
+    "name": "Promo 724"
+},
+{
+    "discountPercent": 13, 
+    "gtins": [
+        1049, 
+        1040, 
+        1003, 
+        1005
+    ], 
+    "name": "Promo 725"
+},
+{
+    "discountPercent": 11, 
+    "gtins": [
+        1026, 
+        1012, 
+        1032, 
+        1041
+    ], 
+    "name": "Promo 726"
+},
+{
+    "discountPercent": 64, 
+    "gtins": [
+        1046
+    ], 
+    "name": "Promo 727"
+},
+{
+    "discountPercent": 86, 
+    "gtins": [
+        1014, 
+        1011, 
+        1036, 
+        1033, 
+        1030
+    ], 
+    "name": "Promo 728"
+},
+{
+    "discountPercent": 86, 
+    "gtins": [
+        1031, 
+        1012, 
+        1014
+    ], 
+    "name": "Promo 729"
+},
+{
+    "discountPercent": 30, 
+    "gtins": [
+        1035, 
+        1038, 
+        1016, 
+        1011, 
+        1047
+    ], 
+    "name": "Promo 730"
+},
+{
+    "discountPercent": 89, 
+    "gtins": [
+        1042, 
+        1026, 
+        1011, 
+        1014
+    ], 
+    "name": "Promo 731"
+},
+{
+    "discountPercent": 93, 
+    "gtins": [
+        1041, 
+        1035
+    ], 
+    "name": "Promo 732"
+},
+{
+    "discountPercent": 92, 
+    "gtins": [
+        1040
+    ], 
+    "name": "Promo 733"
+},
+{
+    "discountPercent": 6, 
+    "gtins": [
+        1034, 
+        1025, 
+        1000, 
+        1030, 
+        1025
+    ], 
+    "name": "Promo 734"
+},
+{
+    "discountPercent": 15, 
+    "gtins": [
+        1041, 
+        1001, 
+        1047, 
+        1037, 
+        1017
+    ], 
+    "name": "Promo 735"
+},
+{
+    "discountPercent": 68, 
+    "gtins": [
+        1011, 
+        1029, 
+        1047
+    ], 
+    "name": "Promo 736"
+},
+{
+    "discountPercent": 34, 
+    "gtins": [
+        1044, 
+        1024, 
+        1000, 
+        1040, 
+        1047
+    ], 
+    "name": "Promo 737"
+},
+{
+    "discountPercent": 8, 
+    "gtins": [
+        1042, 
+        1017
+    ], 
+    "name": "Promo 738"
+},
+{
+    "discountPercent": 42, 
+    "gtins": [
+        1013
+    ], 
+    "name": "Promo 739"
+},
+{
+    "discountPercent": 64, 
+    "gtins": [
+        1010, 
+        1031
+    ], 
+    "name": "Promo 740"
+},
+{
+    "discountPercent": 57, 
+    "gtins": [
+        1031, 
+        1001, 
+        1026, 
+        1013
+    ], 
+    "name": "Promo 741"
+},
+{
+    "discountPercent": 92, 
+    "gtins": [
+        1026, 
+        1034, 
+        1037
+    ], 
+    "name": "Promo 742"
+},
+{
+    "discountPercent": 99, 
+    "gtins": [
+        1036, 
+        1014, 
+        1007
+    ], 
+    "name": "Promo 743"
+},
+{
+    "discountPercent": 95, 
+    "gtins": [
+        1026, 
+        1021
+    ], 
+    "name": "Promo 744"
+},
+{
+    "discountPercent": 69, 
+    "gtins": [
+        1003, 
+        1029, 
+        1033, 
+        1026
+    ], 
+    "name": "Promo 745"
+},
+{
+    "discountPercent": 97, 
+    "gtins": [
+        1012, 
+        1048, 
+        1041, 
+        1005, 
+        1018
+    ], 
+    "name": "Promo 746"
+},
+{
+    "discountPercent": 72, 
+    "gtins": [
+        1014, 
+        1048
+    ], 
+    "name": "Promo 747"
+},
+{
+    "discountPercent": 22, 
+    "gtins": [
+        1014, 
+        1018
+    ], 
+    "name": "Promo 748"
+},
+{
+    "discountPercent": 2, 
+    "gtins": [
+        1031, 
+        1032
+    ], 
+    "name": "Promo 749"
+},
+{
+    "discountPercent": 37, 
+    "gtins": [
+        1012, 
+        1027
+    ], 
+    "name": "Promo 750"
+},
+{
+    "discountPercent": 75, 
+    "gtins": [
+        1013, 
+        1007
+    ], 
+    "name": "Promo 751"
+},
+{
+    "discountPercent": 59, 
+    "gtins": [
+        1004, 
+        1045, 
+        1026
+    ], 
+    "name": "Promo 752"
+},
+{
+    "discountPercent": 22, 
+    "gtins": [
+        1016, 
+        1007, 
+        1045, 
+        1050, 
+        1020
+    ], 
+    "name": "Promo 753"
+},
+{
+    "discountPercent": 44, 
+    "gtins": [
+        1002, 
+        1044, 
+        1025, 
+        1010
+    ], 
+    "name": "Promo 754"
+},
+{
+    "discountPercent": 72, 
+    "gtins": [
+        1050, 
+        1026, 
+        1021, 
+        1045
+    ], 
+    "name": "Promo 755"
+},
+{
+    "discountPercent": 41, 
+    "gtins": [
+        1010, 
+        1031, 
+        1042, 
+        1014
+    ], 
+    "name": "Promo 756"
+},
+{
+    "discountPercent": 8, 
+    "gtins": [
+        1034
+    ], 
+    "name": "Promo 757"
+},
+{
+    "discountPercent": 37, 
+    "gtins": [
+        1043, 
+        1042, 
+        1042
+    ], 
+    "name": "Promo 758"
+},
+{
+    "discountPercent": 69, 
+    "gtins": [
+        1017
+    ], 
+    "name": "Promo 759"
+},
+{
+    "discountPercent": 65, 
+    "gtins": [
+        1045, 
+        1044
+    ], 
+    "name": "Promo 760"
+},
+{
+    "discountPercent": 43, 
+    "gtins": [
+        1036
+    ], 
+    "name": "Promo 761"
+},
+{
+    "discountPercent": 98, 
+    "gtins": [
+        1017, 
+        1023
+    ], 
+    "name": "Promo 762"
+},
+{
+    "discountPercent": 45, 
+    "gtins": [
+        1018, 
+        1019, 
+        1042
+    ], 
+    "name": "Promo 763"
+},
+{
+    "discountPercent": 30, 
+    "gtins": [
+        1014, 
+        1040, 
+        1026, 
+        1027, 
+        1008
+    ], 
+    "name": "Promo 764"
+},
+{
+    "discountPercent": 74, 
+    "gtins": [
+        1022, 
+        1033, 
+        1010, 
+        1030
+    ], 
+    "name": "Promo 765"
+},
+{
+    "discountPercent": 64, 
+    "gtins": [
+        1024, 
+        1024, 
+        1031, 
+        1034
+    ], 
+    "name": "Promo 766"
+},
+{
+    "discountPercent": 98, 
+    "gtins": [
+        1025
+    ], 
+    "name": "Promo 767"
+},
+{
+    "discountPercent": 32, 
+    "gtins": [
+        1028, 
+        1035, 
+        1038, 
+        1044
+    ], 
+    "name": "Promo 768"
+},
+{
+    "discountPercent": 55, 
+    "gtins": [
+        1000, 
+        1038, 
+        1049, 
+        1038
+    ], 
+    "name": "Promo 769"
+},
+{
+    "discountPercent": 63, 
+    "gtins": [
+        1040, 
+        1035
+    ], 
+    "name": "Promo 770"
+},
+{
+    "discountPercent": 32, 
+    "gtins": [
+        1003
+    ], 
+    "name": "Promo 771"
+},
+{
+    "discountPercent": 83, 
+    "gtins": [
+        1017, 
+        1003, 
+        1034, 
+        1017
+    ], 
+    "name": "Promo 772"
+},
+{
+    "discountPercent": 28, 
+    "gtins": [
+        1040
+    ], 
+    "name": "Promo 773"
+},
+{
+    "discountPercent": 24, 
+    "gtins": [
+        1021
+    ], 
+    "name": "Promo 774"
+},
+{
+    "discountPercent": 42, 
+    "gtins": [
+        1021, 
+        1016, 
+        1016, 
+        1007
+    ], 
+    "name": "Promo 775"
+},
+{
+    "discountPercent": 56, 
+    "gtins": [
+        1038, 
+        1026, 
+        1018, 
+        1009
+    ], 
+    "name": "Promo 776"
+},
+{
+    "discountPercent": 97, 
+    "gtins": [
+        1033, 
+        1015, 
+        1005, 
+        1038
+    ], 
+    "name": "Promo 777"
+},
+{
+    "discountPercent": 77, 
+    "gtins": [
+        1006, 
+        1013, 
+        1039
+    ], 
+    "name": "Promo 778"
+},
+{
+    "discountPercent": 72, 
+    "gtins": [
+        1022, 
+        1008, 
+        1040
+    ], 
+    "name": "Promo 779"
+},
+{
+    "discountPercent": 49, 
+    "gtins": [
+        1028
+    ], 
+    "name": "Promo 780"
+},
+{
+    "discountPercent": 51, 
+    "gtins": [
+        1000, 
+        1043, 
+        1004, 
+        1011
+    ], 
+    "name": "Promo 781"
+},
+{
+    "discountPercent": 50, 
+    "gtins": [
+        1043, 
+        1000, 
+        1022, 
+        1023, 
+        1006
+    ], 
+    "name": "Promo 782"
+},
+{
+    "discountPercent": 50, 
+    "gtins": [
+        1029
+    ], 
+    "name": "Promo 783"
+},
+{
+    "discountPercent": 55, 
+    "gtins": [
+        1035, 
+        1001, 
+        1001, 
+        1006
+    ], 
+    "name": "Promo 784"
+},
+{
+    "discountPercent": 19, 
+    "gtins": [
+        1048
+    ], 
+    "name": "Promo 785"
+},
+{
+    "discountPercent": 55, 
+    "gtins": [
+        1028, 
+        1015
+    ], 
+    "name": "Promo 786"
+},
+{
+    "discountPercent": 6, 
+    "gtins": [
+        1001
+    ], 
+    "name": "Promo 787"
+},
+{
+    "discountPercent": 62, 
+    "gtins": [
+        1001
+    ], 
+    "name": "Promo 788"
+},
+{
+    "discountPercent": 76, 
+    "gtins": [
+        1017
+    ], 
+    "name": "Promo 789"
+},
+{
+    "discountPercent": 94, 
+    "gtins": [
+        1042
+    ], 
+    "name": "Promo 790"
+},
+{
+    "discountPercent": 41, 
+    "gtins": [
+        1035, 
+        1026, 
+        1038, 
+        1041
+    ], 
+    "name": "Promo 791"
+},
+{
+    "discountPercent": 36, 
+    "gtins": [
+        1043, 
+        1042, 
+        1014, 
+        1017, 
+        1024
+    ], 
+    "name": "Promo 792"
+},
+{
+    "discountPercent": 92, 
+    "gtins": [
+        1035
+    ], 
+    "name": "Promo 793"
+},
+{
+    "discountPercent": 80, 
+    "gtins": [
+        1009, 
+        1040
+    ], 
+    "name": "Promo 794"
+},
+{
+    "discountPercent": 3, 
+    "gtins": [
+        1019, 
+        1010, 
+        1023
+    ], 
+    "name": "Promo 795"
+},
+{
+    "discountPercent": 62, 
+    "gtins": [
+        1008, 
+        1011, 
+        1021
+    ], 
+    "name": "Promo 796"
+},
+{
+    "discountPercent": 30, 
+    "gtins": [
+        1003, 
+        1024, 
+        1014, 
+        1011, 
+        1044
+    ], 
+    "name": "Promo 797"
+},
+{
+    "discountPercent": 71, 
+    "gtins": [
+        1000, 
+        1010, 
+        1016, 
+        1018
+    ], 
+    "name": "Promo 798"
+},
+{
+    "discountPercent": 57, 
+    "gtins": [
+        1037, 
+        1022, 
+        1010, 
+        1019, 
+        1007
+    ], 
+    "name": "Promo 799"
+},
+{
+    "discountPercent": 74, 
+    "gtins": [
+        1043
+    ], 
+    "name": "Promo 800"
+},
+{
+    "discountPercent": 38, 
+    "gtins": [
+        1017, 
+        1005, 
+        1033
+    ], 
+    "name": "Promo 801"
+},
+{
+    "discountPercent": 2, 
+    "gtins": [
+        1039, 
+        1012, 
+        1020, 
+        1010, 
+        1024
+    ], 
+    "name": "Promo 802"
+},
+{
+    "discountPercent": 10, 
+    "gtins": [
+        1046
+    ], 
+    "name": "Promo 803"
+},
+{
+    "discountPercent": 55, 
+    "gtins": [
+        1000, 
+        1022, 
+        1041
+    ], 
+    "name": "Promo 804"
+},
+{
+    "discountPercent": 88, 
+    "gtins": [
+        1012, 
+        1045, 
+        1047
+    ], 
+    "name": "Promo 805"
+},
+{
+    "discountPercent": 58, 
+    "gtins": [
+        1018
+    ], 
+    "name": "Promo 806"
+},
+{
+    "discountPercent": 36, 
+    "gtins": [
+        1026, 
+        1005
+    ], 
+    "name": "Promo 807"
+},
+{
+    "discountPercent": 19, 
+    "gtins": [
+        1033, 
+        1045
+    ], 
+    "name": "Promo 808"
+},
+{
+    "discountPercent": 89, 
+    "gtins": [
+        1008, 
+        1039
+    ], 
+    "name": "Promo 809"
+},
+{
+    "discountPercent": 38, 
+    "gtins": [
+        1020
+    ], 
+    "name": "Promo 810"
+},
+{
+    "discountPercent": 90, 
+    "gtins": [
+        1041, 
+        1002, 
+        1015, 
+        1016, 
+        1046
+    ], 
+    "name": "Promo 811"
+},
+{
+    "discountPercent": 56, 
+    "gtins": [
+        1007, 
+        1034, 
+        1023, 
+        1018, 
+        1010
+    ], 
+    "name": "Promo 812"
+},
+{
+    "discountPercent": 8, 
+    "gtins": [
+        1015, 
+        1030, 
+        1026
+    ], 
+    "name": "Promo 813"
+},
+{
+    "discountPercent": 22, 
+    "gtins": [
+        1026, 
+        1042, 
+        1033, 
+        1013
+    ], 
+    "name": "Promo 814"
+},
+{
+    "discountPercent": 69, 
+    "gtins": [
+        1005, 
+        1016, 
+        1038, 
+        1000, 
+        1031
+    ], 
+    "name": "Promo 815"
+},
+{
+    "discountPercent": 36, 
+    "gtins": [
+        1034
+    ], 
+    "name": "Promo 816"
+},
+{
+    "discountPercent": 51, 
+    "gtins": [
+        1030
+    ], 
+    "name": "Promo 817"
+},
+{
+    "discountPercent": 49, 
+    "gtins": [
+        1021, 
+        1035
+    ], 
+    "name": "Promo 818"
+},
+{
+    "discountPercent": 50, 
+    "gtins": [
+        1011, 
+        1028, 
+        1012, 
+        1025, 
+        1030
+    ], 
+    "name": "Promo 819"
+},
+{
+    "discountPercent": 36, 
+    "gtins": [
+        1033, 
+        1043, 
+        1026, 
+        1037, 
+        1033
+    ], 
+    "name": "Promo 820"
+},
+{
+    "discountPercent": 86, 
+    "gtins": [
+        1006, 
+        1007, 
+        1008, 
+        1048, 
+        1019
+    ], 
+    "name": "Promo 821"
+},
+{
+    "discountPercent": 43, 
+    "gtins": [
+        1050, 
+        1004, 
+        1048
+    ], 
+    "name": "Promo 822"
+},
+{
+    "discountPercent": 98, 
+    "gtins": [
+        1040, 
+        1004
+    ], 
+    "name": "Promo 823"
+},
+{
+    "discountPercent": 51, 
+    "gtins": [
+        1035, 
+        1046, 
+        1047
+    ], 
+    "name": "Promo 824"
+},
+{
+    "discountPercent": 59, 
+    "gtins": [
+        1030, 
+        1028, 
+        1013, 
+        1005, 
+        1022
+    ], 
+    "name": "Promo 825"
+},
+{
+    "discountPercent": 93, 
+    "gtins": [
+        1022, 
+        1043, 
+        1013, 
+        1027, 
+        1028
+    ], 
+    "name": "Promo 826"
+},
+{
+    "discountPercent": 22, 
+    "gtins": [
+        1031, 
+        1030, 
+        1009, 
+        1038, 
+        1041
+    ], 
+    "name": "Promo 827"
+},
+{
+    "discountPercent": 7, 
+    "gtins": [
+        1047, 
+        1007, 
+        1020
+    ], 
+    "name": "Promo 828"
+},
+{
+    "discountPercent": 33, 
+    "gtins": [
+        1022, 
+        1014, 
+        1006, 
+        1027
+    ], 
+    "name": "Promo 829"
+},
+{
+    "discountPercent": 9, 
+    "gtins": [
+        1039
+    ], 
+    "name": "Promo 830"
+},
+{
+    "discountPercent": 48, 
+    "gtins": [
+        1005, 
+        1037
+    ], 
+    "name": "Promo 831"
+},
+{
+    "discountPercent": 19, 
+    "gtins": [
+        1025, 
+        1001, 
+        1038, 
+        1007, 
+        1038
+    ], 
+    "name": "Promo 832"
+},
+{
+    "discountPercent": 30, 
+    "gtins": [
+        1004
+    ], 
+    "name": "Promo 833"
+},
+{
+    "discountPercent": 53, 
+    "gtins": [
+        1037, 
+        1007, 
+        1010, 
+        1042
+    ], 
+    "name": "Promo 834"
+},
+{
+    "discountPercent": 81, 
+    "gtins": [
+        1005
+    ], 
+    "name": "Promo 835"
+},
+{
+    "discountPercent": 26, 
+    "gtins": [
+        1012
+    ], 
+    "name": "Promo 836"
+},
+{
+    "discountPercent": 97, 
+    "gtins": [
+        1002, 
+        1026, 
+        1023, 
+        1043
+    ], 
+    "name": "Promo 837"
+},
+{
+    "discountPercent": 51, 
+    "gtins": [
+        1004, 
+        1015, 
+        1007, 
+        1011, 
+        1033
+    ], 
+    "name": "Promo 838"
+},
+{
+    "discountPercent": 95, 
+    "gtins": [
+        1017, 
+        1002
+    ], 
+    "name": "Promo 839"
+},
+{
+    "discountPercent": 42, 
+    "gtins": [
+        1042
+    ], 
+    "name": "Promo 840"
+},
+{
+    "discountPercent": 40, 
+    "gtins": [
+        1025, 
+        1033, 
+        1008, 
+        1014
+    ], 
+    "name": "Promo 841"
+},
+{
+    "discountPercent": 12, 
+    "gtins": [
+        1009, 
+        1018, 
+        1017
+    ], 
+    "name": "Promo 842"
+},
+{
+    "discountPercent": 72, 
+    "gtins": [
+        1044, 
+        1019
+    ], 
+    "name": "Promo 843"
+},
+{
+    "discountPercent": 89, 
+    "gtins": [
+        1002, 
+        1007
+    ], 
+    "name": "Promo 844"
+},
+{
+    "discountPercent": 10, 
+    "gtins": [
+        1037, 
+        1045
+    ], 
+    "name": "Promo 845"
+},
+{
+    "discountPercent": 37, 
+    "gtins": [
+        1025, 
+        1028, 
+        1014, 
+        1050
+    ], 
+    "name": "Promo 846"
+},
+{
+    "discountPercent": 79, 
+    "gtins": [
+        1004, 
+        1031
+    ], 
+    "name": "Promo 847"
+},
+{
+    "discountPercent": 42, 
+    "gtins": [
+        1030, 
+        1035, 
+        1019, 
+        1024
+    ], 
+    "name": "Promo 848"
+},
+{
+    "discountPercent": 24, 
+    "gtins": [
+        1036, 
+        1048
+    ], 
+    "name": "Promo 849"
+},
+{
+    "discountPercent": 4, 
+    "gtins": [
+        1034, 
+        1019, 
+        1017
+    ], 
+    "name": "Promo 850"
+},
+{
+    "discountPercent": 34, 
+    "gtins": [
+        1011, 
+        1030, 
+        1031, 
+        1001, 
+        1039
+    ], 
+    "name": "Promo 851"
+},
+{
+    "discountPercent": 93, 
+    "gtins": [
+        1003, 
+        1024, 
+        1027, 
+        1007, 
+        1025
+    ], 
+    "name": "Promo 852"
+},
+{
+    "discountPercent": 22, 
+    "gtins": [
+        1035, 
+        1013, 
+        1038, 
+        1047
+    ], 
+    "name": "Promo 853"
+},
+{
+    "discountPercent": 51, 
+    "gtins": [
+        1006
+    ], 
+    "name": "Promo 854"
+},
+{
+    "discountPercent": 50, 
+    "gtins": [
+        1013, 
+        1047, 
+        1008
+    ], 
+    "name": "Promo 855"
+},
+{
+    "discountPercent": 25, 
+    "gtins": [
+        1024, 
+        1036, 
+        1011
+    ], 
+    "name": "Promo 856"
+},
+{
+    "discountPercent": 25, 
+    "gtins": [
+        1025, 
+        1017
+    ], 
+    "name": "Promo 857"
+},
+{
+    "discountPercent": 61, 
+    "gtins": [
+        1019
+    ], 
+    "name": "Promo 858"
+},
+{
+    "discountPercent": 35, 
+    "gtins": [
+        1018, 
+        1029, 
+        1012, 
+        1036
+    ], 
+    "name": "Promo 859"
+},
+{
+    "discountPercent": 61, 
+    "gtins": [
+        1041, 
+        1038, 
+        1022, 
+        1023
+    ], 
+    "name": "Promo 860"
+},
+{
+    "discountPercent": 18, 
+    "gtins": [
+        1016
+    ], 
+    "name": "Promo 861"
+},
+{
+    "discountPercent": 29, 
+    "gtins": [
+        1018, 
+        1020, 
+        1027, 
+        1011, 
+        1021
+    ], 
+    "name": "Promo 862"
+},
+{
+    "discountPercent": 66, 
+    "gtins": [
+        1010, 
+        1019, 
+        1041, 
+        1033, 
+        1045
+    ], 
+    "name": "Promo 863"
+},
+{
+    "discountPercent": 43, 
+    "gtins": [
+        1010, 
+        1047, 
+        1026, 
+        1044, 
+        1011
+    ], 
+    "name": "Promo 864"
+},
+{
+    "discountPercent": 85, 
+    "gtins": [
+        1000, 
+        1043
+    ], 
+    "name": "Promo 865"
+},
+{
+    "discountPercent": 90, 
+    "gtins": [
+        1041, 
+        1001, 
+        1000
+    ], 
+    "name": "Promo 866"
+},
+{
+    "discountPercent": 84, 
+    "gtins": [
+        1018
+    ], 
+    "name": "Promo 867"
+},
+{
+    "discountPercent": 80, 
+    "gtins": [
+        1013, 
+        1040
+    ], 
+    "name": "Promo 868"
+},
+{
+    "discountPercent": 86, 
+    "gtins": [
+        1042, 
+        1016
+    ], 
+    "name": "Promo 869"
+},
+{
+    "discountPercent": 48, 
+    "gtins": [
+        1026, 
+        1001, 
+        1031, 
+        1014, 
+        1001
+    ], 
+    "name": "Promo 870"
+},
+{
+    "discountPercent": 90, 
+    "gtins": [
+        1040
+    ], 
+    "name": "Promo 871"
+},
+{
+    "discountPercent": 55, 
+    "gtins": [
+        1000, 
+        1041, 
+        1022, 
+        1014
+    ], 
+    "name": "Promo 872"
+},
+{
+    "discountPercent": 25, 
+    "gtins": [
+        1034, 
+        1019, 
+        1042
+    ], 
+    "name": "Promo 873"
+},
+{
+    "discountPercent": 9, 
+    "gtins": [
+        1049, 
+        1017, 
+        1016, 
+        1022
+    ], 
+    "name": "Promo 874"
+},
+{
+    "discountPercent": 84, 
+    "gtins": [
+        1030, 
+        1020, 
+        1021
+    ], 
+    "name": "Promo 875"
+},
+{
+    "discountPercent": 59, 
+    "gtins": [
+        1013
+    ], 
+    "name": "Promo 876"
+},
+{
+    "discountPercent": 37, 
+    "gtins": [
+        1049, 
+        1022
+    ], 
+    "name": "Promo 877"
+},
+{
+    "discountPercent": 12, 
+    "gtins": [
+        1019, 
+        1008, 
+        1037, 
+        1023, 
+        1006
+    ], 
+    "name": "Promo 878"
+},
+{
+    "discountPercent": 18, 
+    "gtins": [
+        1023, 
+        1043, 
+        1040, 
+        1010
+    ], 
+    "name": "Promo 879"
+},
+{
+    "discountPercent": 76, 
+    "gtins": [
+        1041, 
+        1042
+    ], 
+    "name": "Promo 880"
+},
+{
+    "discountPercent": 75, 
+    "gtins": [
+        1032, 
+        1012, 
+        1039
+    ], 
+    "name": "Promo 881"
+},
+{
+    "discountPercent": 50, 
+    "gtins": [
+        1037
+    ], 
+    "name": "Promo 882"
+},
+{
+    "discountPercent": 11, 
+    "gtins": [
+        1041, 
+        1018, 
+        1041, 
+        1029, 
+        1037
+    ], 
+    "name": "Promo 883"
+},
+{
+    "discountPercent": 15, 
+    "gtins": [
+        1043, 
+        1008, 
+        1001, 
+        1029, 
+        1025
+    ], 
+    "name": "Promo 884"
+},
+{
+    "discountPercent": 85, 
+    "gtins": [
+        1021, 
+        1047, 
+        1019
+    ], 
+    "name": "Promo 885"
+},
+{
+    "discountPercent": 95, 
+    "gtins": [
+        1035, 
+        1024, 
+        1009
+    ], 
+    "name": "Promo 886"
+},
+{
+    "discountPercent": 51, 
+    "gtins": [
+        1011
+    ], 
+    "name": "Promo 887"
+},
+{
+    "discountPercent": 52, 
+    "gtins": [
+        1022, 
+        1044, 
+        1030, 
+        1045
+    ], 
+    "name": "Promo 888"
+},
+{
+    "discountPercent": 2, 
+    "gtins": [
+        1049, 
+        1033
+    ], 
+    "name": "Promo 889"
+},
+{
+    "discountPercent": 71, 
+    "gtins": [
+        1022, 
+        1035, 
+        1024, 
+        1025
+    ], 
+    "name": "Promo 890"
+},
+{
+    "discountPercent": 12, 
+    "gtins": [
+        1000, 
+        1033
+    ], 
+    "name": "Promo 891"
+},
+{
+    "discountPercent": 35, 
+    "gtins": [
+        1039, 
+        1003, 
+        1039, 
+        1046
+    ], 
+    "name": "Promo 892"
+},
+{
+    "discountPercent": 93, 
+    "gtins": [
+        1016
+    ], 
+    "name": "Promo 893"
+},
+{
+    "discountPercent": 70, 
+    "gtins": [
+        1021, 
+        1006
+    ], 
+    "name": "Promo 894"
+},
+{
+    "discountPercent": 29, 
+    "gtins": [
+        1020, 
+        1022
+    ], 
+    "name": "Promo 895"
+},
+{
+    "discountPercent": 51, 
+    "gtins": [
+        1030, 
+        1009
+    ], 
+    "name": "Promo 896"
+},
+{
+    "discountPercent": 67, 
+    "gtins": [
+        1033
+    ], 
+    "name": "Promo 897"
+},
+{
+    "discountPercent": 15, 
+    "gtins": [
+        1027, 
+        1045, 
+        1045, 
+        1019, 
+        1011
+    ], 
+    "name": "Promo 898"
+},
+{
+    "discountPercent": 82, 
+    "gtins": [
+        1024, 
+        1029, 
+        1038
+    ], 
+    "name": "Promo 899"
+},
+{
+    "discountPercent": 63, 
+    "gtins": [
+        1014, 
+        1000
+    ], 
+    "name": "Promo 900"
+},
+{
+    "discountPercent": 82, 
+    "gtins": [
+        1044, 
+        1042
+    ], 
+    "name": "Promo 901"
+},
+{
+    "discountPercent": 93, 
+    "gtins": [
+        1000, 
+        1050, 
+        1028
+    ], 
+    "name": "Promo 902"
+},
+{
+    "discountPercent": 9, 
+    "gtins": [
+        1036, 
+        1020, 
+        1049, 
+        1043, 
+        1022
+    ], 
+    "name": "Promo 903"
+},
+{
+    "discountPercent": 56, 
+    "gtins": [
+        1027, 
+        1017, 
+        1010
+    ], 
+    "name": "Promo 904"
+},
+{
+    "discountPercent": 79, 
+    "gtins": [
+        1020, 
+        1016, 
+        1041, 
+        1027
+    ], 
+    "name": "Promo 905"
+},
+{
+    "discountPercent": 16, 
+    "gtins": [
+        1011, 
+        1018
+    ], 
+    "name": "Promo 906"
+},
+{
+    "discountPercent": 56, 
+    "gtins": [
+        1005, 
+        1046
+    ], 
+    "name": "Promo 907"
+},
+{
+    "discountPercent": 3, 
+    "gtins": [
+        1020
+    ], 
+    "name": "Promo 908"
+},
+{
+    "discountPercent": 84, 
+    "gtins": [
+        1038, 
+        1000, 
+        1043
+    ], 
+    "name": "Promo 909"
+},
+{
+    "discountPercent": 89, 
+    "gtins": [
+        1020
+    ], 
+    "name": "Promo 910"
+},
+{
+    "discountPercent": 37, 
+    "gtins": [
+        1000, 
+        1012, 
+        1044
+    ], 
+    "name": "Promo 911"
+},
+{
+    "discountPercent": 88, 
+    "gtins": [
+        1005, 
+        1033, 
+        1047
+    ], 
+    "name": "Promo 912"
+},
+{
+    "discountPercent": 69, 
+    "gtins": [
+        1004
+    ], 
+    "name": "Promo 913"
+},
+{
+    "discountPercent": 12, 
+    "gtins": [
+        1018, 
+        1006, 
+        1023, 
+        1049, 
+        1024
+    ], 
+    "name": "Promo 914"
+},
+{
+    "discountPercent": 36, 
+    "gtins": [
+        1040
+    ], 
+    "name": "Promo 915"
+},
+{
+    "discountPercent": 7, 
+    "gtins": [
+        1031, 
+        1029, 
+        1047
+    ], 
+    "name": "Promo 916"
+},
+{
+    "discountPercent": 93, 
+    "gtins": [
+        1005, 
+        1002
+    ], 
+    "name": "Promo 917"
+},
+{
+    "discountPercent": 62, 
+    "gtins": [
+        1044, 
+        1021
+    ], 
+    "name": "Promo 918"
+},
+{
+    "discountPercent": 68, 
+    "gtins": [
+        1022
+    ], 
+    "name": "Promo 919"
+},
+{
+    "discountPercent": 7, 
+    "gtins": [
+        1030, 
+        1006, 
+        1026, 
+        1017, 
+        1034
+    ], 
+    "name": "Promo 920"
+},
+{
+    "discountPercent": 14, 
+    "gtins": [
+        1044, 
+        1019, 
+        1015
+    ], 
+    "name": "Promo 921"
+},
+{
+    "discountPercent": 83, 
+    "gtins": [
+        1046, 
+        1047, 
+        1001
+    ], 
+    "name": "Promo 922"
+},
+{
+    "discountPercent": 31, 
+    "gtins": [
+        1003, 
+        1027, 
+        1012
+    ], 
+    "name": "Promo 923"
+},
+{
+    "discountPercent": 44, 
+    "gtins": [
+        1024
+    ], 
+    "name": "Promo 924"
+},
+{
+    "discountPercent": 68, 
+    "gtins": [
+        1030, 
+        1031
+    ], 
+    "name": "Promo 925"
+},
+{
+    "discountPercent": 44, 
+    "gtins": [
+        1038, 
+        1047
+    ], 
+    "name": "Promo 926"
+},
+{
+    "discountPercent": 75, 
+    "gtins": [
+        1023, 
+        1030
+    ], 
+    "name": "Promo 927"
+},
+{
+    "discountPercent": 76, 
+    "gtins": [
+        1039, 
+        1015
+    ], 
+    "name": "Promo 928"
+},
+{
+    "discountPercent": 24, 
+    "gtins": [
+        1022, 
+        1003, 
+        1007, 
+        1007, 
+        1034
+    ], 
+    "name": "Promo 929"
+},
+{
+    "discountPercent": 99, 
+    "gtins": [
+        1007
+    ], 
+    "name": "Promo 930"
+},
+{
+    "discountPercent": 23, 
+    "gtins": [
+        1047, 
+        1001, 
+        1029, 
+        1017, 
+        1043
+    ], 
+    "name": "Promo 931"
+},
+{
+    "discountPercent": 83, 
+    "gtins": [
+        1007, 
+        1034, 
+        1019, 
+        1014
+    ], 
+    "name": "Promo 932"
+},
+{
+    "discountPercent": 85, 
+    "gtins": [
+        1002, 
+        1035, 
+        1018, 
+        1043, 
+        1021
+    ], 
+    "name": "Promo 933"
+},
+{
+    "discountPercent": 10, 
+    "gtins": [
+        1001, 
+        1022, 
+        1015, 
+        1007, 
+        1039
+    ], 
+    "name": "Promo 934"
+},
+{
+    "discountPercent": 48, 
+    "gtins": [
+        1008, 
+        1028, 
+        1036, 
+        1016, 
+        1024
+    ], 
+    "name": "Promo 935"
+},
+{
+    "discountPercent": 82, 
+    "gtins": [
+        1032, 
+        1027, 
+        1000
+    ], 
+    "name": "Promo 936"
+},
+{
+    "discountPercent": 83, 
+    "gtins": [
+        1019, 
+        1009, 
+        1014, 
+        1023
+    ], 
+    "name": "Promo 937"
+},
+{
+    "discountPercent": 22, 
+    "gtins": [
+        1014
+    ], 
+    "name": "Promo 938"
+},
+{
+    "discountPercent": 25, 
+    "gtins": [
+        1024
+    ], 
+    "name": "Promo 939"
+},
+{
+    "discountPercent": 11, 
+    "gtins": [
+        1013, 
+        1049, 
+        1036, 
+        1012
+    ], 
+    "name": "Promo 940"
+},
+{
+    "discountPercent": 97, 
+    "gtins": [
+        1045, 
+        1050, 
+        1014
+    ], 
+    "name": "Promo 941"
+},
+{
+    "discountPercent": 93, 
+    "gtins": [
+        1028, 
+        1012
+    ], 
+    "name": "Promo 942"
+},
+{
+    "discountPercent": 94, 
+    "gtins": [
+        1017, 
+        1008, 
+        1037, 
+        1024, 
+        1027
+    ], 
+    "name": "Promo 943"
+},
+{
+    "discountPercent": 83, 
+    "gtins": [
+        1002, 
+        1000, 
+        1049, 
+        1048, 
+        1041
+    ], 
+    "name": "Promo 944"
+},
+{
+    "discountPercent": 52, 
+    "gtins": [
+        1014, 
+        1047, 
+        1041, 
+        1012, 
+        1002
+    ], 
+    "name": "Promo 945"
+},
+{
+    "discountPercent": 19, 
+    "gtins": [
+        1008, 
+        1012, 
+        1013, 
+        1011, 
+        1027
+    ], 
+    "name": "Promo 946"
+},
+{
+    "discountPercent": 47, 
+    "gtins": [
+        1049, 
+        1012, 
+        1015, 
+        1029
+    ], 
+    "name": "Promo 947"
+},
+{
+    "discountPercent": 96, 
+    "gtins": [
+        1024, 
+        1011, 
+        1039, 
+        1026, 
+        1003
+    ], 
+    "name": "Promo 948"
+},
+{
+    "discountPercent": 35, 
+    "gtins": [
+        1025, 
+        1037, 
+        1041
+    ], 
+    "name": "Promo 949"
+},
+{
+    "discountPercent": 94, 
+    "gtins": [
+        1025, 
+        1049, 
+        1031, 
+        1047, 
+        1049
+    ], 
+    "name": "Promo 950"
+},
+{
+    "discountPercent": 36, 
+    "gtins": [
+        1028, 
+        1026, 
+        1000, 
+        1011, 
+        1015
+    ], 
+    "name": "Promo 951"
+},
+{
+    "discountPercent": 81, 
+    "gtins": [
+        1016, 
+        1037, 
+        1004, 
+        1036, 
+        1025
+    ], 
+    "name": "Promo 952"
+},
+{
+    "discountPercent": 69, 
+    "gtins": [
+        1020
+    ], 
+    "name": "Promo 953"
+},
+{
+    "discountPercent": 37, 
+    "gtins": [
+        1013, 
+        1018
+    ], 
+    "name": "Promo 954"
+},
+{
+    "discountPercent": 44, 
+    "gtins": [
+        1027
+    ], 
+    "name": "Promo 955"
+},
+{
+    "discountPercent": 90, 
+    "gtins": [
+        1010
+    ], 
+    "name": "Promo 956"
+},
+{
+    "discountPercent": 18, 
+    "gtins": [
+        1037, 
+        1049, 
+        1019, 
+        1030, 
+        1040
+    ], 
+    "name": "Promo 957"
+},
+{
+    "discountPercent": 79, 
+    "gtins": [
+        1038
+    ], 
+    "name": "Promo 958"
+},
+{
+    "discountPercent": 32, 
+    "gtins": [
+        1021, 
+        1010
+    ], 
+    "name": "Promo 959"
+},
+{
+    "discountPercent": 3, 
+    "gtins": [
+        1025, 
+        1022, 
+        1010, 
+        1008, 
+        1028
+    ], 
+    "name": "Promo 960"
+},
+{
+    "discountPercent": 2, 
+    "gtins": [
+        1040, 
+        1040, 
+        1009, 
+        1015
+    ], 
+    "name": "Promo 961"
+},
+{
+    "discountPercent": 58, 
+    "gtins": [
+        1002, 
+        1011, 
+        1021, 
+        1035
+    ], 
+    "name": "Promo 962"
+},
+{
+    "discountPercent": 54, 
+    "gtins": [
+        1003
+    ], 
+    "name": "Promo 963"
+},
+{
+    "discountPercent": 59, 
+    "gtins": [
+        1026
+    ], 
+    "name": "Promo 964"
+},
+{
+    "discountPercent": 54, 
+    "gtins": [
+        1038, 
+        1003
+    ], 
+    "name": "Promo 965"
+},
+{
+    "discountPercent": 98, 
+    "gtins": [
+        1024, 
+        1027, 
+        1029, 
+        1040, 
+        1006
+    ], 
+    "name": "Promo 966"
+},
+{
+    "discountPercent": 73, 
+    "gtins": [
+        1029, 
+        1023, 
+        1002, 
+        1050
+    ], 
+    "name": "Promo 967"
+},
+{
+    "discountPercent": 33, 
+    "gtins": [
+        1034, 
+        1034
+    ], 
+    "name": "Promo 968"
+},
+{
+    "discountPercent": 96, 
+    "gtins": [
+        1002, 
+        1035, 
+        1023
+    ], 
+    "name": "Promo 969"
+},
+{
+    "discountPercent": 56, 
+    "gtins": [
+        1039
+    ], 
+    "name": "Promo 970"
+},
+{
+    "discountPercent": 45, 
+    "gtins": [
+        1049, 
+        1041, 
+        1011, 
+        1025, 
+        1043
+    ], 
+    "name": "Promo 971"
+},
+{
+    "discountPercent": 51, 
+    "gtins": [
+        1026
+    ], 
+    "name": "Promo 972"
+},
+{
+    "discountPercent": 76, 
+    "gtins": [
+        1014, 
+        1022, 
+        1015, 
+        1031, 
+        1041
+    ], 
+    "name": "Promo 973"
+},
+{
+    "discountPercent": 1, 
+    "gtins": [
+        1003, 
+        1024
+    ], 
+    "name": "Promo 974"
+},
+{
+    "discountPercent": 29, 
+    "gtins": [
+        1022
+    ], 
+    "name": "Promo 975"
+},
+{
+    "discountPercent": 15, 
+    "gtins": [
+        1041
+    ], 
+    "name": "Promo 976"
+},
+{
+    "discountPercent": 50, 
+    "gtins": [
+        1027, 
+        1044, 
+        1013, 
+        1038, 
+        1029
+    ], 
+    "name": "Promo 977"
+},
+{
+    "discountPercent": 85, 
+    "gtins": [
+        1048, 
+        1010, 
+        1044
+    ], 
+    "name": "Promo 978"
+},
+{
+    "discountPercent": 39, 
+    "gtins": [
+        1046, 
+        1036, 
+        1000, 
+        1000, 
+        1016
+    ], 
+    "name": "Promo 979"
+},
+{
+    "discountPercent": 96, 
+    "gtins": [
+        1033, 
+        1023, 
+        1025, 
+        1022, 
+        1009
+    ], 
+    "name": "Promo 980"
+},
+{
+    "discountPercent": 57, 
+    "gtins": [
+        1047, 
+        1047, 
+        1039, 
+        1019, 
+        1035
+    ], 
+    "name": "Promo 981"
+},
+{
+    "discountPercent": 18, 
+    "gtins": [
+        1028, 
+        1012, 
+        1007
+    ], 
+    "name": "Promo 982"
+},
+{
+    "discountPercent": 35, 
+    "gtins": [
+        1004, 
+        1007, 
+        1035, 
+        1014
+    ], 
+    "name": "Promo 983"
+},
+{
+    "discountPercent": 69, 
+    "gtins": [
+        1019, 
+        1008, 
+        1012, 
+        1005
+    ], 
+    "name": "Promo 984"
+},
+{
+    "discountPercent": 1, 
+    "gtins": [
+        1016, 
+        1040
+    ], 
+    "name": "Promo 985"
+},
+{
+    "discountPercent": 25, 
+    "gtins": [
+        1023, 
+        1049, 
+        1003
+    ], 
+    "name": "Promo 986"
+},
+{
+    "discountPercent": 39, 
+    "gtins": [
+        1030, 
+        1047, 
+        1030, 
+        1000
+    ], 
+    "name": "Promo 987"
+},
+{
+    "discountPercent": 22, 
+    "gtins": [
+        1032, 
+        1032, 
+        1033, 
+        1037, 
+        1026
+    ], 
+    "name": "Promo 988"
+},
+{
+    "discountPercent": 19, 
+    "gtins": [
+        1010, 
+        1003, 
+        1008
+    ], 
+    "name": "Promo 989"
+},
+{
+    "discountPercent": 79, 
+    "gtins": [
+        1012, 
+        1050, 
+        1008, 
+        1019, 
+        1001
+    ], 
+    "name": "Promo 990"
+},
+{
+    "discountPercent": 39, 
+    "gtins": [
+        1021, 
+        1033, 
+        1030, 
+        1028
+    ], 
+    "name": "Promo 991"
+},
+{
+    "discountPercent": 9, 
+    "gtins": [
+        1046
+    ], 
+    "name": "Promo 992"
+},
+{
+    "discountPercent": 65, 
+    "gtins": [
+        1005, 
+        1011, 
+        1032, 
+        1049, 
+        1017
+    ], 
+    "name": "Promo 993"
+},
+{
+    "discountPercent": 82, 
+    "gtins": [
+        1037, 
+        1045, 
+        1030, 
+        1014
+    ], 
+    "name": "Promo 994"
+},
+{
+    "discountPercent": 20, 
+    "gtins": [
+        1033, 
+        1014
+    ], 
+    "name": "Promo 995"
+},
+{
+    "discountPercent": 46, 
+    "gtins": [
+        1006, 
+        1022, 
+        1024, 
+        1010, 
+        1009
+    ], 
+    "name": "Promo 996"
+},
+{
+    "discountPercent": 14, 
+    "gtins": [
+        1017, 
+        1037, 
+        1010, 
+        1050, 
+        1003
+    ], 
+    "name": "Promo 997"
+},
+{
+    "discountPercent": 73, 
+    "gtins": [
+        1002, 
+        1044, 
+        1011, 
+        1003
+    ], 
+    "name": "Promo 998"
+},
+{
+    "discountPercent": 80, 
+    "gtins": [
+        1021, 
+        1031, 
+        1012, 
+        1006, 
+        1040
+    ], 
+    "name": "Promo 999"
+},
+{
+    "discountPercent": 58, 
+    "gtins": [
+        1045
+    ], 
+    "name": "Promo 1000"
+},
+{
+    "discountPercent": 10, 
+    "gtins": [
+        1014, 
+        1007
+    ], 
+    "name": "Promo 1001"
+},
+{
+    "discountPercent": 47, 
+    "gtins": [
+        1038, 
+        1009, 
+        1027, 
+        1043, 
+        1025
+    ], 
+    "name": "Promo 1002"
+},
+{
+    "discountPercent": 96, 
+    "gtins": [
+        1007, 
+        1043, 
+        1024, 
+        1048
+    ], 
+    "name": "Promo 1003"
+},
+{
+    "discountPercent": 45, 
+    "gtins": [
+        1005, 
+        1047
+    ], 
+    "name": "Promo 1004"
+},
+{
+    "discountPercent": 61, 
+    "gtins": [
+        1026, 
+        1038, 
+        1023, 
+        1010
+    ], 
+    "name": "Promo 1005"
+},
+{
+    "discountPercent": 9, 
+    "gtins": [
+        1038, 
+        1025, 
+        1033, 
+        1040
+    ], 
+    "name": "Promo 1006"
+},
+{
+    "discountPercent": 9, 
+    "gtins": [
+        1009
+    ], 
+    "name": "Promo 1007"
+},
+{
+    "discountPercent": 47, 
+    "gtins": [
+        1009, 
+        1011, 
+        1046
+    ], 
+    "name": "Promo 1008"
+},
+{
+    "discountPercent": 92, 
+    "gtins": [
+        1037, 
+        1027, 
+        1046, 
+        1016, 
+        1017
+    ], 
+    "name": "Promo 1009"
+},
+{
+    "discountPercent": 14, 
+    "gtins": [
+        1014, 
+        1010, 
+        1020, 
+        1019
+    ], 
+    "name": "Promo 1010"
+},
+{
+    "discountPercent": 38, 
+    "gtins": [
+        1001
+    ], 
+    "name": "Promo 1011"
+},
+{
+    "discountPercent": 18, 
+    "gtins": [
+        1009, 
+        1030, 
+        1036, 
+        1022
+    ], 
+    "name": "Promo 1012"
+},
+{
+    "discountPercent": 61, 
+    "gtins": [
+        1033, 
+        1006, 
+        1016
+    ], 
+    "name": "Promo 1013"
+},
+{
+    "discountPercent": 6, 
+    "gtins": [
+        1013, 
+        1023, 
+        1008
+    ], 
+    "name": "Promo 1014"
+},
+{
+    "discountPercent": 85, 
+    "gtins": [
+        1007
+    ], 
+    "name": "Promo 1015"
+},
+{
+    "discountPercent": 32, 
+    "gtins": [
+        1037, 
+        1005, 
+        1036, 
+        1033
+    ], 
+    "name": "Promo 1016"
+},
+{
+    "discountPercent": 50, 
+    "gtins": [
+        1029, 
+        1024, 
+        1010, 
+        1020, 
+        1007
+    ], 
+    "name": "Promo 1017"
+},
+{
+    "discountPercent": 61, 
+    "gtins": [
+        1023, 
+        1003, 
+        1026, 
+        1024, 
+        1022
+    ], 
+    "name": "Promo 1018"
+},
+{
+    "discountPercent": 79, 
+    "gtins": [
+        1008
+    ], 
+    "name": "Promo 1019"
+},
+{
+    "discountPercent": 46, 
+    "gtins": [
+        1027, 
+        1030, 
+        1035
+    ], 
+    "name": "Promo 1020"
+},
+{
+    "discountPercent": 96, 
+    "gtins": [
+        1037, 
+        1050, 
+        1030, 
+        1031, 
+        1010
+    ], 
+    "name": "Promo 1021"
+},
+{
+    "discountPercent": 37, 
+    "gtins": [
+        1003, 
+        1045
+    ], 
+    "name": "Promo 1022"
+},
+{
+    "discountPercent": 52, 
+    "gtins": [
+        1033, 
+        1004
+    ], 
+    "name": "Promo 1023"
+}
+]}

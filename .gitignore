@@ -1,0 +1,9 @@
+core
+a.out
+
+*~
+*.local
+*.o
+*.so
+*.core
+*.pyc

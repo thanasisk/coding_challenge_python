@@ -1,0 +1,14 @@
+{
+    "promotions": [
+    {
+        "name": "Promo 1",
+            "discountPercent": 20,
+            "gtins": [1001, 1002]
+    },
+    {
+        "name": "Promo 1",
+            "discountPercent": 20,
+            "gtins": [1001, 1002]
+    }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "items": [
+        {
+            "gtin": 1038, 
+            "name": "bread", 
+            "price": 2437
+        }, 
+        {
+            "gtin": 1052, 
+            "name": "chicken", 
+            "price": 5548
+        }, 
+        {
+            "gtin": 1070, 
+            "name": "keys", 
+            "price": 8291
+        }, 
+        {
+            "gtin": 1092, 
+            "name": "pen", 
+            "price": 2925
+        }, 
+        {
+            "gtin": 1005, 
+            "name": "burger", 
+            "price": 9267
+        }, 
+        {
+            "gtin": 1063, 
+            "name": "book", 
+            "price": 5716
+        }, 
+        {
+            "gtin": 1011, 
+            "name": "speaker", 
+            "price": 4406
+        }, 
+        {
+            "gtin": 1084, 
+            "name": "CD", 
+            "price": 6737
+        }, 
+        {
+            "gtin": 1064, 
+            "name": "DVD", 
+            "price": 1850
+        }, 
+        {
+            "gtin": 1044, 
+            "name": "cup", 
+            "price": 2809
+        }, 
+        {
+            "gtin": 1078, 
+            "name": "thumbdrive", 
+            "price": 9135
+        }, 
+        {
+            "gtin": 1058, 
+            "name": "caviar", 
+            "price": 3895
+        }, 
+        {
+            "gtin": 1028, 
+            "name": "joghurt", 
+            "price": 6240
+        }, 
+        {
+            "gtin": 1001, 
+            "name": "magazine", 
+            "price": 5173
+        }
+    ], 
+    "timestamp": 15888499680331710410
+}
