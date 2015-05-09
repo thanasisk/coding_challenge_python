@@ -6,11 +6,11 @@ import json
 import itertools
 # bad style?
 import model
-from model import Basket, Item, Promotion, Redemption
+from model import Basket, Redemption
 
 
 def loadJSON(fname):
-    with open(fname,"rb") as ifile:
+    with open(fname, "rb") as ifile:
         tmp = ifile.read()
         obj = json.loads(tmp)
     return obj
@@ -23,7 +23,7 @@ def redeem(basket, promotions):
     redemptions = []
     basket = trimBasket(basket, promotions)
     # sort in ascending order items and promotions
-    items = sorted(basket.items, reverse = True)
+    items = sorted(basket.items, reverse=True)
     promotions = sorted(promotions)
     while promotions != []:
         # for each promotion, try to apply it to the most expensive item
