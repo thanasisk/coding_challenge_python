@@ -4,8 +4,9 @@
 import sys
 import json
 import itertools
-# bad style?
+import argparse
 import model
+# a short-hand
 from model import Basket, Redemption
 
 
@@ -54,11 +55,14 @@ def trimBasket(basket, promotions):
 
 def main():
     promotions = []
-    basketRaw = loadJSON("basket.json")
-    basketRaw = loadJSON("datasets/random_basket.json")
+    # TODO: add argparse stuff
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-b", "--basket", default="basket.json")
+    parser.add_argument("-p", "--promotions", default="promotions.json")
+    args = parser.parse_args()
+    basketRaw = loadJSON(args.basket)
     basket = model.dict2Basket(basketRaw)
-    promotionsRaw = loadJSON("promotions.json")
-    promotionsRaw = loadJSON("datasets/random_promotions.json")
+    promotionsRaw = loadJSON(args.promotions)
     for promotionRaw in promotionsRaw["promotions"]:
         promotions.append(model.dict2Promotion(promotionRaw))
     redemptions = redeem(basket, promotions)
